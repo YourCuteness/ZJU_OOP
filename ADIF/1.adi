@@ -1,0 +1,1007 @@
+ADIF Export from Logger32 Ver [3.16]
+Copyright 2001-2009  Robert C. Furzer.
+Logs generated on 2011.01.06 at 0309 UTC by : BA5AG.
+File output restricted to QSOs by : All operators on All Bands - All Modes 
+<PROGRAMID:8>LOGGER32
+<PROGRAMVERSION:6>3.16.0
+<EOH>
+
+<qso_date:8>20051127<time_on:6>123800<freq:7>145.380<mode:2>FM<call:6>BG4CPY<rst_sent:2>59<rst_rcvd:2>57<comment:45>周家嘴 FT7800 车天线 18楼 杭州中继<my_rig:9>FT847 50W<qth:6>上海<eor>
+<qso_date:8>20051128<time_on:6>115300<freq:6>21.125<mode:2>CW<call:6>BG5HLY<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20051231<time_on:6>091000<freq:6>14.024<mode:2>CW<call:5>JT1CO<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060101<time_on:6>095100<freq:5>7.015<mode:2>CW<call:6>JA7MBT<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:5>TELLY<qth:5>IWAKI<eor>
+<qso_date:8>20060101<time_on:6>111800<freq:5>7.012<mode:2>CW<call:6>DS5UST<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060101<time_on:6>112000<freq:5>7.009<mode:2>CW<call:5>8J5MC<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060101<time_on:6>113500<freq:6>14.006<mode:2>CW<call:6>HS0ZFQ<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:7>RICHARD<qth:9>CHIANGRAI<eor>
+<qso_date:8>20060103<time_on:6>054100<freq:5>7.063<mode:3>SSB<call:5>BA5DX<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060104<time_on:6>035300<freq:5>7.050<mode:3>SSB<call:6>BG5CNA<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060104<time_on:6>075700<freq:5>7.055<mode:3>SSB<call:6>BG5CBE<rst_sent:2>59<rst_rcvd:2>59<comment:18>FT80C 20W INV RAIN<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>宁波<eor>
+<qso_date:8>20060104<time_on:6>131100<freq:5>3.502<mode:2>CW<call:6>JH2RMU<rst_sent:3>559<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:3>AKI<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060106<time_on:6>001600<freq:5>7.023<mode:2>CW<call:5>BD6CD<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:4>TIAN<qth:7>HUAIBEI<eor>
+<qso_date:8>20060107<time_on:6>041700<freq:5>7.006<mode:2>CW<call:10>JR3TVH/JS6<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:4>TAKA<qth:5>MIKKO<eor>
+<qso_date:8>20060107<time_on:6>061100<freq:6>10.123<mode:2>CW<call:10>JA1DXN/QRP<rst_sent:3>559<rst_rcvd:3>559<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060107<time_on:6>071700<freq:6>14.022<mode:2>CW<call:5>RK0SK<rst_sent:3>579<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:4>ALEX<qslrdate:6>070120<qslsdate:6>060801<eor>
+<qso_date:8>20060107<time_on:6>073600<freq:6>21.016<mode:2>CW<call:4>R9AA<rst_sent:3>589<rst_rcvd:3>579<my_rig:14>FT847 100W INV<name:5>PETER<qth:14>NR CHELYABINSK<eor>
+<qso_date:8>20060107<time_on:6>074800<freq:6>21.017<mode:2>CW<call:5>RA4CQ<rst_sent:3>559<rst_rcvd:3>559<my_rig:14>FT847 100W INV<name:4>MIKE<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060107<time_on:6>122800<freq:5>3.511<mode:2>CW<call:8>JJ8DEN/6<rst_sent:3>449<rst_rcvd:3>559<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060113<time_on:6>031500<freq:5>7.053<mode:3>SSB<call:6>BG6IDD<rst_sent:2>59<rst_rcvd:2>59<comment:9>IC735 INV<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>河南南阳<eor>
+<qso_date:8>20060113<time_on:6>031900<freq:5>7.053<mode:3>SSB<call:5>BA3TT<rst_sent:2>58<rst_rcvd:2>56<comment:3>CLD<my_rig:14>FT847 100W INV<name:3>宋<qth:12>山西青城<eor>
+<qso_date:8>20060113<time_on:6>032600<freq:5>7.053<mode:3>SSB<call:6>BG7IFL<rst_sent:2>53<rst_rcvd:2>56<comment:14>JST145 50W CP6<my_rig:14>FT847 100W INV<qth:12>广东湛江<eor>
+<qso_date:8>20060113<time_on:6>033100<freq:5>7.053<mode:3>SSB<call:6>BG4IFZ<rst_sent:2>59<rst_rcvd:2>59<comment:13>FT80C 30W INV<my_rig:14>FT847 100W INV<name:9>李兴国<qth:12>山东青岛<eor>
+<qso_date:8>20060113<time_on:6>034300<freq:5>7.053<mode:3>SSB<call:5>BD6KD<rst_sent:2>58<rst_rcvd:2>56<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:15>河南驻马店<eor>
+<qso_date:8>20060113<time_on:6>034500<freq:5>7.053<mode:3>SSB<call:5>BD5WP<rst_sent:2>59<rst_rcvd:2>59<comment:10>IC751A INV<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>福建永安<eor>
+<qso_date:8>20060113<time_on:6>035400<freq:5>7.053<mode:3>SSB<call:5>JR6EA<rst_sent:2>55<rst_rcvd:2>57<my_rig:14>FT847 100W INV<name:6>MASATO<qslrdate:6>070120<qslsdate:6>060801<qth:7>OKINAWA<eor>
+<qso_date:8>20060113<time_on:6>035800<freq:5>7.053<mode:3>SSB<call:5>BD3RF<rst_sent:2>59<rst_rcvd:2>57<comment:13>TS450 50W INV<my_rig:14>FT847 100W INV<qth:15>河北秦皇岛<eor>
+<qso_date:8>20060113<time_on:6>044900<freq:5>7.053<mode:3>SSB<call:5>BD3GT<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060114<time_on:6>033100<freq:6>14.070<mode:4>BPSK<call:6>UA0LQJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:6>DMITRY<qslrdate:6>060606<qslsdate:6>060606<qth:15>NAKHODKA PN62MV<eor>
+<qso_date:8>20060114<time_on:6>033400<freq:6>14.070<mode:4>BPSK<call:5>RA9SC<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:4>ALEX<qth:4>ORSK<eor>
+<qso_date:8>20060114<time_on:6>033800<freq:5>7.053<mode:3>SSB<call:6>BG1CAJ<rst_sent:2>55<rst_rcvd:2>55<my_rig:14>FT847 100W INV<qth:6>北京<eor>
+<qso_date:8>20060114<time_on:6>034200<freq:5>7.053<mode:3>SSB<call:5>BD6KD<rst_sent:2>56<rst_rcvd:2>56<my_rig:14>FT847 100W INV<qth:15>河南驻马店<eor>
+<qso_date:8>20060114<time_on:6>062400<freq:6>14.070<mode:3>PSK<call:7>RV6YZ/6<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060114<time_on:6>062900<freq:6>14.070<mode:3>PSK<call:5>JA1RL<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:4>HISA<qth:5>TOKYO<eor>
+<qso_date:8>20060114<time_on:6>084600<freq:5>7.060<mode:3>SSB<call:6>BG3MYX<rst_sent:2>59<rst_rcvd:2>56<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060114<time_on:6>085500<freq:5>7.023<mode:2>CW<call:6>UA0LQJ<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060114<time_on:6>133500<freq:5>7.012<mode:2>CW<call:5>RA4CQ<rst_sent:3>449<rst_rcvd:3>579<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060122<time_on:6>021000<freq:5>7.063<mode:3>SSB<call:6>BG5BDB<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>温州<eor>
+<qso_date:8>20060122<time_on:6>021200<freq:5>7.063<mode:3>SSB<call:6>BG5CAP<rst_sent:2>59<rst_rcvd:2>59<comment:10>IC706MKIIG<my_rig:14>FT847 100W INV<qth:6>宁波<eor>
+<qso_date:8>20060122<time_on:6>021300<freq:5>7.063<mode:3>SSB<call:6>BG5DKK<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>金华东阳<eor>
+<qso_date:8>20060122<time_on:6>021600<freq:5>7.063<mode:3>SSB<call:5>BA4DF<rst_sent:2>59<rst_rcvd:2>59<comment:17>TS440S 80W INV FB<my_rig:14>FT847 100W INV<name:3>汪<qslrdate:6>060606<qslsdate:6>060606<qth:6>上海<eor>
+<qso_date:8>20060122<time_on:6>021900<freq:5>7.063<mode:3>SSB<call:6>BD5BAJ<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>温州<eor>
+<qso_date:8>20060122<time_on:6>022100<freq:5>7.063<mode:3>SSB<call:6>BG5CVB<rst_sent:2>59<rst_rcvd:2>56<comment:9>IC706 INV<my_rig:14>FT847 100W INV<qth:6>绍兴<eor>
+<qso_date:8>20060122<time_on:6>022200<freq:5>7.063<mode:3>SSB<call:6>BD4RKL<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>江苏南京<eor>
+<qso_date:8>20060122<time_on:6>022400<freq:5>7.063<mode:3>SSB<call:5>BA5DX<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>杭州良渚<eor>
+<qso_date:8>20060122<time_on:6>022400<freq:5>7.063<mode:3>SSB<call:5>BA7AE<rst_sent:2>59<rst_rcvd:2>59<comment:10>FT180A INV<my_rig:14>FT847 100W INV<qth:12>湖南长沙<eor>
+<qso_date:8>20060122<time_on:6>022600<freq:5>7.063<mode:3>SSB<call:6>BD5HSA<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>杭州富阳<eor>
+<qso_date:8>20060122<time_on:6>024400<freq:5>7.063<mode:3>SSB<call:6>BG5BSA<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>温州泰顺<eor>
+<qso_date:8>20060122<time_on:6>024500<freq:5>7.063<mode:3>SSB<call:6>BD5DAA<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:6>绍兴<eor>
+<qso_date:8>20060122<time_on:6>024800<freq:5>7.063<mode:3>SSB<call:6>BA4SCP<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>江苏苏州<eor>
+<qso_date:8>20060122<time_on:6>030500<freq:5>7.063<mode:3>SSB<call:5>BV4AS<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>台湾台中<eor>
+<qso_date:8>20060122<time_on:6>031400<freq:5>7.063<mode:3>SSB<call:6>BG5CCF<rst_sent:2>59<rst_rcvd:2>59<comment:15>IC751A 25W CP-6<my_rig:14>FT847 100W INV<qth:6>宁波<eor>
+<qso_date:8>20060124<time_on:6>130800<freq:5>7.007<mode:2>CW<call:5>RU9WX<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<qslrdate:6>060724<qslsdate:6>060205<eor>
+<qso_date:8>20060124<time_on:6>131100<freq:5>7.011<mode:2>CW<call:6>UA3SDY<rst_sent:3>599<rst_rcvd:3>599<my_rig:14>FT847 100W INV<name:4>MIKE<eor>
+<qso_date:8>20060124<time_on:6>235500<freq:5>7.023<mode:2>CW<call:6>BD1WSY<rst_sent:3>599<rst_rcvd:3>559<my_rig:14>FT847 100W INV<name:4>WANG<qth:7>BEIJING<eor>
+<qso_date:8>20060125<time_on:6>000400<freq:5>7.053<mode:3>SSB<call:6>BG4IHT<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>山东新泰<eor>
+<qso_date:8>20060125<time_on:6>000800<freq:5>7.053<mode:3>SSB<call:5>BD8AI<rst_sent:2>59<rst_rcvd:2>55<my_rig:14>FT847 100W INV<qth:12>四川成都<eor>
+<qso_date:8>20060125<time_on:6>000900<freq:5>7.053<mode:3>SSB<call:6>BG6QPF<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>湖北襄樊<eor>
+<qso_date:8>20060125<time_on:6>001300<freq:5>7.053<mode:3>SSB<call:6>BG4INK<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>山东临沂<eor>
+<qso_date:8>20060125<time_on:6>001500<freq:5>7.053<mode:3>SSB<call:5>BD9SD<rst_sent:2>58<rst_rcvd:2>57<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>青海西宁<eor>
+<qso_date:8>20060125<time_on:6>001700<freq:5>7.053<mode:3>SSB<call:5>BD7FP<rst_sent:2>59<rst_rcvd:2>58<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>湖南永州<eor>
+<qso_date:8>20060125<time_on:6>001900<freq:5>7.053<mode:3>SSB<call:6>BG4XCN<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:15>江苏连云港<eor>
+<qso_date:8>20060125<time_on:6>002100<freq:5>7.053<mode:3>SSB<call:6>BG1ENU<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>北京<eor>
+<qso_date:8>20060126<time_on:6>063900<freq:5>7.050<mode:3>SSB<call:6>BG6IID<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060126<time_on:6>064500<freq:5>7.053<mode:3>SSB<call:6>BG4INK<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>山东临沂<eor>
+<qso_date:8>20060126<time_on:6>064600<freq:5>7.053<mode:3>SSB<call:6>BG6AHP<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>安徽滁州<eor>
+<qso_date:8>20060126<time_on:6>065700<freq:5>7.023<mode:2>CW<call:6>JI1FIY<rst_sent:3>599<rst_rcvd:3>559<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060126<time_on:6>065800<freq:5>7.023<mode:2>CW<call:6>JA3DDF<rst_sent:3>599<rst_rcvd:3>559<my_rig:14>FT847 100W INV<qslrdate:6>070120<qslsdate:6>060801<eor>
+<qso_date:8>20060126<time_on:6>070100<freq:5>7.023<mode:2>CW<call:4>N6TI<rst_sent:3>569<rst_rcvd:3>559<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060128<time_on:6>031900<freq:5>7.063<mode:3>SSB<call:6>BG4IGX<rst_sent:2>58<rst_rcvd:2>57<comment:12>FT80 30W INV<my_rig:14>FT847 100W INV<qth:12>山东莱阳<eor>
+<qso_date:8>20060128<time_on:6>072800<freq:5>7.053<mode:3>SSB<call:6>BD6AGX<rst_sent:2>59<rst_rcvd:2>59<comment:17>JRC145 50W INV FB<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>安徽阜阳<eor>
+<qso_date:8>20060129<time_on:6>014700<freq:5>7.063<mode:3>SSB<call:6>BG5CAP<rst_sent:2>59<rst_rcvd:2>58<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060129<time_on:6>015200<freq:5>7.063<mode:3>SSB<call:5>BG6AZ<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>安徽铜陵<eor>
+<qso_date:8>20060129<time_on:6>015400<freq:5>7.063<mode:3>SSB<call:5>BA4DF<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060129<time_on:6>015400<freq:5>7.063<mode:3>SSB<call:6>BG4INK<rst_sent:2>59<rst_rcvd:2>58<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060129<time_on:6>015600<freq:5>7.063<mode:3>SSB<call:5>BG6AE<rst_sent:2>59<rst_rcvd:2>59<comment:5>KN712<my_rig:14>FT847 100W INV<qth:12>安徽铜陵<eor>
+<qso_date:8>20060129<time_on:6>015800<freq:5>7.063<mode:3>SSB<call:6>BG6AHP<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060129<time_on:6>015800<freq:5>7.063<mode:3>SSB<call:6>BG6AMF<rst_sent:2>59<rst_rcvd:2>59<comment:7>D2B INV<my_rig:14>FT847 100W INV<qth:12>安徽凤阳<eor>
+<qso_date:8>20060129<time_on:6>020000<freq:5>7.063<mode:3>SSB<call:6>BG9AFO<rst_sent:2>59<rst_rcvd:2>55<comment:9>IC746 40W<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>陕西西安<eor>
+<qso_date:8>20060129<time_on:6>020300<freq:5>7.063<mode:3>SSB<call:5>BD4OL<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>山东莱阳<eor>
+<qso_date:8>20060129<time_on:6>020500<freq:5>7.063<mode:3>SSB<call:5>BA6QH<rst_sent:2>59<rst_rcvd:2>56<comment:12>FT817 5W INV<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>湖北武汉<eor>
+<qso_date:8>20060129<time_on:6>020600<freq:5>7.063<mode:3>SSB<call:5>BD3VC<rst_sent:2>58<rst_rcvd:2>58<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>山西大同<eor>
+<qso_date:8>20060129<time_on:6>020800<freq:5>7.063<mode:3>SSB<call:5>BD2RI<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>辽宁<eor>
+<qso_date:8>20060129<time_on:6>021000<freq:5>7.063<mode:3>SSB<call:6>BG5CAM<rst_sent:2>59<rst_rcvd:2>59<comment:18>IC706MKIIG 25W INV<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>宁波<eor>
+<qso_date:8>20060129<time_on:6>021100<freq:5>7.063<mode:3>SSB<call:6>BD6IJW<rst_sent:2>59<rst_rcvd:2>58<my_rig:14>FT847 100W INV<qth:12>河南郑州<eor>
+<qso_date:8>20060129<time_on:6>021300<freq:5>7.063<mode:3>SSB<call:6>BD1FBV<rst_sent:2>59<rst_rcvd:2>55<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:6>北京<eor>
+<qso_date:8>20060130<time_on:6>014200<freq:5>7.053<mode:3>SSB<call:5>BD5IR<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060701<qslsdate:6>060205<qth:12>江西吉安<eor>
+<qso_date:8>20060130<time_on:6>014400<freq:5>7.053<mode:3>SSB<call:6>BG6QCF<rst_sent:2>59<rst_rcvd:2>59<comment:5>FT80C<my_rig:14>FT847 100W INV<qth:12>湖北武汉<eor>
+<qso_date:8>20060130<time_on:6>014600<freq:5>7.053<mode:3>SSB<call:6>BG4VFQ<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:12>江苏徐州<eor>
+<qso_date:8>20060130<time_on:6>014800<freq:5>7.053<mode:3>SSB<call:5>BA7AE<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060130<time_on:6>014900<freq:5>7.053<mode:3>SSB<call:5>BG6AZ<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060130<time_on:6>015000<freq:5>7.053<mode:3>SSB<call:5>BA5RR<rst_sent:2>59<rst_rcvd:2>58<my_rig:14>FT847 100W INV<qth:12>福建福州<eor>
+<qso_date:8>20060130<time_on:6>015200<freq:5>7.053<mode:3>SSB<call:6>BG5FAB<rst_sent:2>59<rst_rcvd:2>59<comment:5>FT180<my_rig:14>FT847 100W INV<qth:6>台州<eor>
+<qso_date:8>20060130<time_on:6>015400<freq:5>7.053<mode:3>SSB<call:6>BG9AFH<rst_sent:2>58<rst_rcvd:2>56<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>陕西西安<eor>
+<qso_date:8>20060130<time_on:6>015600<freq:5>7.053<mode:3>SSB<call:5>BD4OL<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060130<time_on:6>015800<freq:5>7.053<mode:3>SSB<call:6>BG4IHZ<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>山东青岛<eor>
+<qso_date:8>20060130<time_on:6>015900<freq:5>7.053<mode:3>SSB<call:5>BX2AK<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<qth:12>台湾台北<eor>
+<qso_date:8>20060130<time_on:6>020100<freq:5>7.053<mode:3>SSB<call:6>BG5CAP<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060130<time_on:6>020900<freq:5>7.023<mode:2>CW<call:6>BG1KBA<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<name:2>LI<qth:7>CHENGDE<eor>
+<qso_date:8>20060130<time_on:6>021300<freq:5>7.023<mode:2>CW<call:5>BD4VE<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<name:5>ZHENG<qslrdate:6>060606<qslsdate:6>060606<qth:6>XUZHOU<eor>
+<qso_date:8>20060202<time_on:6>033800<freq:7>144.200<mode:3>SSB<call:5>BA5AA<rst_sent:2>59<rst_rcvd:2>57<my_rig:14>FT847 50W VERT<eor>
+<qso_date:8>20060202<time_on:6>035100<freq:7>144.200<mode:3>SSB<call:6>BG5HAR<rst_sent:2>59<rst_rcvd:2>56<my_rig:14>FT847 50W VERT<eor>
+<qso_date:8>20060202<time_on:6>081000<freq:6>14.070<mode:3>PSK<call:6>UA0LQJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:6>DIMTRY<qth:8>Nakhodka<eor>
+<qso_date:8>20060202<time_on:6>082400<freq:5>7.023<mode:2>CW<call:6>BG4AYO<rst_sent:3>519<rst_rcvd:3>559<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060202<time_on:6>085100<freq:5>7.050<mode:3>SSB<call:6>BG1PAO<rst_sent:2>59<rst_rcvd:2>57<comment:15>JRC145 20W -10C<my_rig:14>FT847 100W INV<qth:6>北京<eor>
+<qso_date:8>20060202<time_on:6>093300<freq:5>7.050<mode:3>SSB<call:5>BG9HM<rst_sent:2>59<rst_rcvd:2>56<my_rig:14>FT847 100W INV<qth:12>甘肃天水<eor>
+<qso_date:8>20060202<time_on:6>114500<freq:5>7.023<mode:2>CW<call:6>BG1DQU<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<name:3>GAO<qslrdate:6>060606<qslsdate:6>060606<qth:7>BEIJING<eor>
+<qso_date:8>20060202<time_on:6>120700<freq:5>7.023<mode:2>CW<call:5>BG3QX<rst_sent:3>599<rst_rcvd:3>559<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060202<time_on:6>121200<freq:5>7.063<mode:3>SSB<call:6>DU1HBC<rst_sent:2>57<rst_rcvd:2>59<my_rig:14>FT847 100W INV<name:4>AKEY<qslrdate:6>060709<qslsdate:6>060305<eor>
+<qso_date:8>20060203<time_on:6>075600<freq:7>144.200<mode:3>SSB<call:5>BA5DX<rst_sent:2>59<rst_rcvd:2>51<my_rig:14>FT847 100W INV<eor>
+<qso_date:8>20060305<time_on:6>023200<freq:5>7.053<mode:3>SSB<call:8>BD4AOY/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:15>余杭山沟沟<eor>
+<qso_date:8>20060305<time_on:6>092400<freq:6>21.295<mode:3>SSB<call:6>9M6DXX<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<qslrdate:6>070101<qslsdate:6>060405<eor>
+<qso_date:8>20060305<time_on:6>093200<freq:6>14.180<mode:3>SSB<call:6>AX3MCG<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060305<time_on:6>093800<freq:5>7.020<mode:2>CW<call:5>JA5TX<rst_sent:3>599<rst_rcvd:3>599<comment:4>100W<my_rig:14>FT847 100W INV<name:4>MORI<eor>
+<qso_date:8>20060307<time_on:6>085300<freq:5>7.029<mode:2>CW<call:6>JM6CIP<rst_sent:3>599<rst_rcvd:3>599<comment:6>FB 18C<my_rig:14>FT847 100W INV<name:5>MITSU<qth:8>MIYAZAKI<eor>
+<qso_date:8>20060307<time_on:6>090900<freq:6>14.070<mode:3>PSK<call:6>JA1VDN<rst_sent:3>599<rst_rcvd:3>599<comment:12>PM96LG FB 9C<my_rig:14>FT847 100W INV<name:3>TOM<qth:5>GUNMA<eor>
+<qso_date:8>20060310<time_on:6>095800<freq:5>7.023<mode:2>CW<call:9>BA6QH/QRP<rst_sent:3>599<rst_rcvd:3>599<comment:2>5W<my_rig:14>FT847 100W INV<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060310<time_on:6>120200<freq:5>7.012<mode:2>CW<call:6>JA4PXE<rst_sent:3>599<rst_rcvd:3>579<my_rig:14>FT847 100W INV<name:3>JOE<eor>
+<qso_date:8>20060310<time_on:6>120700<freq:5>7.050<mode:3>SSB<call:6>BD7IWW<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>FT847 100W INV<qth:6>广州<eor>
+<qso_date:8>20060313<time_on:6>084000<freq:6>21.295<mode:3>SSB<call:6>XU7ADJ<rst_sent:2>59<rst_rcvd:2>58<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060313<time_on:6>084700<freq:6>21.240<mode:3>SSB<call:5>RD3DT<rst_sent:2>59<rst_rcvd:2>58<my_rig:13>FT847 100W GP<name:4>ALEX<eor>
+<qso_date:8>20060313<time_on:6>085100<freq:6>21.240<mode:3>SSB<call:6>7N2ICG<rst_sent:2>58<rst_rcvd:2>58<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060313<time_on:6>085200<freq:6>21.240<mode:3>SSB<call:6>JA0DBS<rst_sent:2>59<rst_rcvd:2>58<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060313<time_on:6>085500<freq:6>21.240<mode:3>SSB<call:6>JN1FRL<rst_sent:2>59<rst_rcvd:2>57<my_rig:13>FT847 100W GP<name:5>YOSHI<qth:8>NR TOKYO<eor>
+<qso_date:8>20060313<time_on:6>085700<freq:6>21.240<mode:3>SSB<call:6>JA1FEW<rst_sent:2>59<rst_rcvd:2>59<comment:19>6ELE YAGI 40MH 100W<my_rig:13>FT847 100W GP<name:4>HANK<qth:8>W. TOKYO<eor>
+<qso_date:8>20060314<time_on:6>073900<freq:6>14.070<mode:3>PSK<call:6>ZL1REY<rst_sent:3>559<rst_rcvd:3>579<comment:16>FT857 RF74DH 20C<my_rig:13>FT847 100W GP<name:7>Rei cey<qth:9>WhanCerei<eor>
+<qso_date:8>20060314<time_on:6>080000<freq:6>14.070<mode:3>PSK<call:6>JA1FJJ<rst_sent:3>589<rst_rcvd:3>599<comment:28>FB FT920 100W 3ELE YAGI 20MH<my_rig:13>FT847 100W GP<name:4>YASU<qslrdate:6>070120<qslsdate:6>060801<qth:8>YOKOSUKA<eor>
+<qso_date:8>20060314<time_on:6>080500<freq:6>14.070<mode:3>PSK<call:5>UA0LD<rst_sent:3>599<rst_rcvd:3>599<comment:15>PM53SB TS440 DP<my_rig:13>FT847 100W GP<name:4>VLAD<qth:11>VLAADMOSTOK<eor>
+<qso_date:8>20060314<time_on:6>081200<freq:6>21.070<mode:3>PSK<call:6>DU3NXE<rst_sent:3>599<rst_rcvd:3>599<comment:29>PK04hn FT1000MP 100 Yagi 22mh<my_rig:13>FT847 100W GP<name:5>Chuck<qslrdate:6>070101<qslsdate:6>060405<qth:5>Limay<eor>
+<qso_date:8>20060314<time_on:6>081800<freq:6>14.070<mode:3>PSK<call:6>JA3KYE<rst_sent:3>599<rst_rcvd:3>599<comment:32>PM74UN 61yrs TS950 25W 3ELE YAGI<my_rig:13>FT847 100W GP<name:4>AOKI<qslrdate:6>070120<qslsdate:6>060801<qth:4>NARA<eor>
+<qso_date:8>20060314<time_on:6>082600<freq:6>21.272<mode:3>SSB<call:6>HS0ZBS<rst_sent:2>59<rst_rcvd:2>59<comment:23>WINDY 27C 80W 2ELE YAGI<my_rig:13>FT847 100W GP<name:4>KURT<qslrdate:6>060630<qslsdate:6>060405<qth:7>PRACHIN<eor>
+<qso_date:8>20060314<time_on:6>084000<freq:6>14.270<mode:3>SSB<call:7>BA4CH/7<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<qth:12>海南海口<eor>
+<qso_date:8>20060316<time_on:6>083500<freq:6>14.070<mode:3>PSK<call:5>RA0JW<rst_sent:3>559<rst_rcvd:3>559<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060316<time_on:6>114200<freq:6>29.600<mode:2>FM<call:5>BD8UK<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>FT847 40W GP<eor>
+<qso_date:8>20060318<time_on:6>084000<freq:6>18.130<mode:3>SSB<call:6>VR2XMT<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<name:6>Charli<qslrdate:6>060606<qslsdate:6>060606<qth:9>Hong Kong<eor>
+<qso_date:8>20060318<time_on:6>084600<freq:6>14.070<mode:3>PSK<call:5>RW0AA<rst_sent:3>599<rst_rcvd:3>589<comment:6>NO59DU<my_rig:13>FT847 100W GP<name:4>YURI<qth:8>Nazarovo<eor>
+<qso_date:8>20060318<time_on:6>085500<freq:6>14.070<mode:3>PSK<call:5>VK3JX<rst_sent:3>559<rst_rcvd:3>559<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060318<time_on:6>090500<freq:6>14.070<mode:3>PSK<call:5>JA1WC<rst_sent:3>559<rst_rcvd:3>599<my_rig:13>FT847 100W GP<name:4>KUBO<qth:8>Yokohama<eor>
+<qso_date:8>20060319<time_on:6>071900<freq:6>18.148<mode:3>SSB<call:5>T88AR<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060319<time_on:6>084400<freq:6>14.270<mode:3>SSB<call:5>BL7IA<rst_sent:2>59<rst_rcvd:2>59<comment:14>JRC145 100W DP<my_rig:13>FT847 100W GP<qslrdate:6>060606<qslsdate:6>060606<qth:6>深圳<eor>
+<qso_date:8>20060320<time_on:6>104400<freq:6>14.270<mode:3>SSB<call:5>BA4CH<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>FT847 100W GP<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060321<time_on:6>021200<freq:6>14.330<mode:3>SSB<call:5>BY1PK<rst_sent:2>57<rst_rcvd:2>59<my_rig:13>FT847 100W GP<eor>
+<qso_date:8>20060325<time_on:6>000135<freq:6>21.210<mode:3>SSB<call:6>YB2OBL<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:1>1<p:1>3<pfx:3>YB2<pref:2>YB<r:1>1<srx:3>007<stx:1>1<eor>
+<qso_date:8>20060325<time_on:6>000543<freq:6>21.223<mode:3>SSB<call:6>YE1ZAT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:1>2<p:1>3<pfx:3>YE1<pref:2>YB<r:1>1<srx:3>004<stx:1>2<eor>
+<qso_date:8>20060325<time_on:6>001000<freq:6>21.253<mode:3>SSB<call:6>YB1BAD<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:1>3<p:1>3<pfx:3>YB1<pref:2>YB<r:1>1<srx:3>011<stx:1>3<eor>
+<qso_date:8>20060325<time_on:6>001445<freq:6>21.272<mode:3>SSB<call:5>4H50O<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:1>4<p:1>3<pfx:4>4H50<pref:2>DU<r:1>1<srx:3>005<stx:1>4<eor>
+<qso_date:8>20060325<time_on:6>002057<freq:6>21.290<mode:3>SSB<call:6>YC3BDJ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:1>5<p:1>3<pfx:3>YC3<pref:2>YB<r:1>1<srx:3>036<stx:1>5<eor>
+<qso_date:8>20060325<time_on:6>002634<freq:6>21.252<mode:3>SSB<call:5>YB1TC<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YB1<pref:2>YB<r:1>1<srx:3>011<stx:1>6<eor>
+<qso_date:8>20060325<time_on:6>003043<freq:6>21.232<mode:3>SSB<call:6>YC1BTW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:1>6<p:1>3<pfx:3>YC1<pref:2>YB<r:1>1<srx:3>004<stx:1>7<eor>
+<qso_date:8>20060325<time_on:6>004151<freq:6>21.228<mode:3>SSB<call:5>DZ50I<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:1>7<p:1>3<pfx:4>DZ50<pref:2>DU<r:1>1<srx:3>056<stx:1>8<eor>
+<qso_date:8>20060325<time_on:6>004327<freq:6>21.219<mode:3>SSB<call:6>4F1MEU<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:1>8<p:1>3<pfx:3>4F1<pref:2>DU<r:1>1<srx:3>046<stx:1>9<eor>
+<qso_date:8>20060325<time_on:6>004638<freq:6>21.275<mode:3>SSB<call:4>DX1L<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:1>9<p:1>3<pfx:3>DX1<pref:2>DU<r:1>1<srx:3>066<stx:2>10<eor>
+<qso_date:8>20060325<time_on:6>004820<freq:6>21.260<mode:3>SSB<call:6>9M6DXX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>East Malaysia<muls:2>10<p:1>3<pfx:3>9M6<pref:3>9M6<r:1>1<srx:3>005<stx:2>11<eor>
+<qso_date:8>20060325<time_on:6>005841<freq:6>21.253<mode:3>SSB<call:6>YC0MJY<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>11<p:1>3<pfx:3>YC0<pref:2>YB<r:1>1<srx:3>011<stx:2>12<eor>
+<qso_date:8>20060325<time_on:6>005944<freq:6>21.253<mode:3>SSB<call:6>YC6LAY<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>12<p:1>3<pfx:3>YC6<pref:2>YB<r:1>1<srx:3>001<stx:2>13<eor>
+<qso_date:8>20060325<time_on:6>010216<freq:6>21.253<mode:3>SSB<call:6>HS0ZGL<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Thailand<muls:2>13<p:1>1<pfx:3>HS0<pref:2>HS<r:1>1<srx:3>065<stx:2>14<eor>
+<qso_date:8>20060325<time_on:6>010709<freq:6>21.315<mode:3>SSB<call:6>VK2APG<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<muls:2>14<p:1>3<pfx:3>VK2<pref:2>VK<r:1>1<srx:3>054<stx:2>15<eor>
+<qso_date:8>20060325<time_on:6>011318<freq:6>21.325<mode:3>SSB<call:7>DZ50ALI<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<p:1>3<pfx:4>DZ50<pref:2>DU<r:1>1<srx:3>010<stx:2>16<eor>
+<qso_date:8>20060325<time_on:6>011714<freq:6>21.355<mode:3>SSB<call:5>DV1JM<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:2>15<p:1>3<pfx:3>DV1<pref:2>DU<r:1>1<srx:3>031<stx:2>17<eor>
+<qso_date:8>20060325<time_on:6>012052<freq:6>21.215<mode:3>SSB<call:6>E21YDP<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Thailand<muls:2>16<p:1>1<pfx:3>E21<pref:2>HS<r:1>1<srx:3>009<stx:2>18<eor>
+<qso_date:8>20060325<time_on:6>012414<freq:6>21.247<mode:3>SSB<call:5>YC3MM<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YC3<pref:2>YB<r:1>1<srx:3>099<stx:2>19<eor>
+<qso_date:8>20060325<time_on:6>012846<freq:6>21.205<mode:3>SSB<call:5>9M2MT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>West Malaysia<muls:2>17<p:1>1<pfx:3>9M2<pref:3>9M2<r:1>1<srx:3>026<stx:2>20<eor>
+<qso_date:8>20060325<time_on:6>013403<freq:6>21.252<mode:3>SSB<call:5>YB1AR<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YB1<pref:2>YB<r:1>1<srx:3>064<stx:2>21<eor>
+<qso_date:8>20060325<time_on:6>013723<freq:6>21.268<mode:3>SSB<call:5>DZ1BP<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<muls:2>18<p:1>3<pfx:3>DZ1<pref:2>DU<r:1>1<srx:3>079<stx:2>22<eor>
+<qso_date:8>20060325<time_on:6>014648<freq:6>21.255<mode:3>SSB<call:5>YB1TX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YB1<pref:2>YB<r:1>1<srx:3>006<stx:2>23<eor>
+<qso_date:8>20060325<time_on:6>014856<freq:6>21.255<mode:3>SSB<call:6>YC0NFL<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YC0<pref:2>YB<r:1>1<srx:3>005<stx:2>24<eor>
+<qso_date:8>20060325<time_on:6>015323<freq:6>21.309<mode:3>SSB<call:6>9M2CNC<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>West Malaysia<p:1>1<pfx:3>9M2<pref:3>9M2<r:1>1<srx:3>107<stx:2>25<eor>
+<qso_date:8>20060325<time_on:6>020712<freq:6>21.255<mode:3>SSB<call:6>YB5AQB<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>19<p:1>3<pfx:3>YB5<pref:2>YB<r:1>1<srx:3>009<stx:2>26<eor>
+<qso_date:8>20060325<time_on:6>034737<freq:6>21.256<mode:3>SSB<call:6>JE1ZWT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>Japan<muls:2>20<p:1>1<pfx:3>JE1<pref:2>JA<r:1>1<srx:3>123<stx:2>27<eor>
+<qso_date:8>20060325<time_on:6>034832<freq:6>21.295<mode:3>SSB<call:9>9M6/G3OOK<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>East Malaysia<p:1>3<pfx:3>9M6<pref:3>9M6<r:1>1<srx:3>162<stx:2>28<eor>
+<qso_date:8>20060325<time_on:6>034959<freq:6>21.315<mode:3>SSB<call:5>KG6DX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>United States<muls:2>21<p:1>3<pfx:3>KG6<pref:1>K<r:1>1<srx:3>141<stx:2>29<eor>
+<qso_date:8>20060325<time_on:6>035257<freq:6>21.225<mode:3>SSB<call:5>UA9UR<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>22<p:1>1<pfx:3>UA9<pref:3>UA9<r:1>1<srx:3>018<stx:2>30<eor>
+<qso_date:8>20060325<time_on:6>035713<freq:6>21.245<mode:3>SSB<call:5>UA0SE<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>23<p:1>1<pfx:3>UA0<pref:3>UA9<r:1>1<srx:3>069<stx:2>31<eor>
+<qso_date:8>20060325<time_on:6>035923<freq:6>21.280<mode:3>SSB<call:6>VK2KPP<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<p:1>3<pfx:3>VK2<pref:2>VK<r:1>1<srx:3>075<stx:2>32<eor>
+<qso_date:8>20060325<time_on:6>040217<freq:6>21.275<mode:3>SSB<call:5>JU1DX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Mongolia<muls:2>24<p:1>1<pfx:3>JU1<pref:2>JT<r:1>1<srx:3>236<stx:2>33<eor>
+<qso_date:8>20060325<time_on:6>040613<freq:6>21.265<mode:3>SSB<call:4>UP5G<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:10>Kazakhstan<muls:2>25<p:1>1<pfx:3>UP5<pref:2>UN<r:1>1<srx:3>040<stx:2>34<eor>
+<qso_date:8>20060325<time_on:6>041048<freq:6>21.265<mode:3>SSB<call:6>HS1CKC<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Thailand<muls:2>26<p:1>1<pfx:3>HS1<pref:2>HS<r:1>1<srx:3>063<stx:2>35<eor>
+<qso_date:8>20060325<time_on:6>042755<freq:6>21.262<mode:3>SSB<call:6>HS0ZCW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Thailand<p:1>1<pfx:3>HS0<pref:2>HS<r:1>1<srx:3>160<stx:2>36<eor>
+<qso_date:8>20060325<time_on:6>042854<freq:6>21.195<mode:3>SSB<call:5>4H50M<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<p:1>3<pfx:4>4H50<pref:2>DU<r:1>1<srx:3>031<stx:2>37<eor>
+<qso_date:8>20060325<time_on:6>043100<freq:6>21.280<mode:3>SSB<call:6>HS6MYW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Thailand<muls:2>27<p:1>1<pfx:3>HS6<pref:2>HS<r:1>1<srx:3>080<stx:2>38<eor>
+<qso_date:8>20060325<time_on:6>043641<freq:6>21.259<mode:3>SSB<call:6>AX6ANC<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<muls:2>28<p:1>3<pfx:3>AX6<pref:2>VK<r:1>1<srx:3>166<stx:2>39<eor>
+<qso_date:8>20060325<time_on:6>044114<freq:6>21.290<mode:3>SSB<call:5>EY8BW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:10>Tajikistan<muls:2>29<p:1>1<pfx:3>EY8<pref:2>EY<r:1>1<srx:3>031<stx:2>40<eor>
+<qso_date:8>20060325<time_on:6>044903<freq:6>21.270<mode:3>SSB<call:4>YE2O<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>30<p:1>3<pfx:3>YE2<pref:2>YB<r:1>1<srx:3>050<stx:2>41<eor>
+<qso_date:8>20060325<time_on:6>045059<freq:6>21.260<mode:3>SSB<call:7>JV800DA<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Mongolia<muls:2>31<p:1>1<pfx:5>JV800<pref:2>JT<r:1>1<srx:3>269<stx:2>42<eor>
+<qso_date:8>20060325<time_on:6>050152<freq:6>21.400<mode:3>SSB<call:6>BD5HBO<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<muls:2>32<p:1>1<pfx:3>BD5<pref:2>BY<r:1>1<srx:3>030<stx:2>43<eor>
+<qso_date:8>20060325<time_on:6>050734<freq:6>21.240<mode:3>SSB<call:4>EM7J<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Ukraine<muls:2>33<p:1>3<pfx:3>EM7<pref:2>UR<r:1>1<srx:3>092<stx:2>44<eor>
+<qso_date:8>20060325<time_on:6>051345<freq:6>21.212<mode:3>SSB<call:5>AX4YN<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<muls:2>34<p:1>3<pfx:3>AX4<pref:2>VK<r:1>1<srx:3>220<stx:2>45<eor>
+<qso_date:8>20060325<time_on:6>051739<freq:6>21.250<mode:3>SSB<call:6>ZL1ANJ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>New Zealand<muls:2>35<p:1>3<pfx:3>ZL1<pref:2>ZL<r:1>1<srx:3>408<stx:2>46<eor>
+<qso_date:8>20060325<time_on:6>052155<freq:6>21.240<mode:3>SSB<call:5>VK4CZ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<muls:2>36<p:1>3<pfx:3>VK4<pref:2>VK<r:1>1<srx:3>471<stx:2>47<eor>
+<qso_date:8>20060325<time_on:6>052406<freq:6>21.350<mode:3>SSB<call:3>B7P<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<muls:2>37<p:1>1<pfx:2>B7<r:1>1<srx:3>323<stx:2>48<eor>
+<qso_date:8>20060325<time_on:6>054746<freq:6>21.245<mode:3>SSB<call:6>DV1VGN<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<p:1>3<pfx:3>DV1<pref:2>DU<r:1>1<srx:3>096<stx:2>49<eor>
+<qso_date:8>20060325<time_on:6>055750<freq:6>21.229<mode:3>SSB<call:6>DX1DBT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Philippines<p:1>3<pfx:3>DX1<pref:2>DU<r:1>1<srx:3>097<stx:2>50<eor>
+<qso_date:8>20060325<time_on:6>060142<freq:6>21.235<mode:3>SSB<call:5>9N7JO<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>Nepal<muls:2>38<p:1>1<pfx:3>9N7<pref:2>9N<r:1>1<srx:3>053<stx:2>51<eor>
+<qso_date:8>20060325<time_on:6>060209<freq:6>21.235<mode:3>SSB<call:5>RA9SK<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>39<p:1>1<pfx:3>RA9<pref:3>UA9<r:1>1<srx:3>033<stx:2>52<eor>
+<qso_date:8>20060325<time_on:6>061143<freq:6>21.235<mode:3>SSB<call:6>RW0COA<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>40<p:1>1<pfx:3>RW0<pref:3>UA9<r:1>1<srx:3>113<stx:2>53<eor>
+<qso_date:8>20060325<time_on:6>061514<freq:6>21.219<mode:3>SSB<call:5>EY8MM<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:10>Tajikistan<p:1>1<pfx:3>EY8<pref:2>EY<r:1>1<srx:3>014<stx:2>54<eor>
+<qso_date:8>20060325<time_on:6>061744<freq:6>21.250<mode:3>SSB<call:6>YB0ZCB<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>41<p:1>3<pfx:3>YB0<pref:2>YB<r:1>1<srx:3>068<stx:2>55<eor>
+<qso_date:8>20060325<time_on:6>062722<freq:6>21.280<mode:3>SSB<call:6>VR2XMT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Hong Kong<muls:2>42<p:1>1<pfx:3>VR2<pref:2>VR<r:1>1<srx:3>019<stx:2>56<eor>
+<qso_date:8>20060325<time_on:6>062923<freq:6>21.236<mode:3>SSB<call:5>JT1CO<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Mongolia<muls:2>43<p:1>1<pfx:3>JT1<pref:2>JT<r:1>1<srx:3>012<stx:2>57<eor>
+<qso_date:8>20060325<time_on:6>072457<freq:6>21.220<mode:3>SSB<call:4>EO3Q<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Ukraine<muls:2>44<p:1>3<pfx:3>EO3<pref:2>UR<r:1>1<srx:3>466<stx:2>58<eor>
+<qso_date:8>20060325<time_on:6>073357<freq:6>21.213<mode:3>SSB<call:5>3W9JR<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Vietnam<muls:2>45<p:1>1<pfx:3>3W9<pref:2>3W<r:1>1<srx:3>060<stx:2>59<eor>
+<qso_date:8>20060325<time_on:6>074045<freq:6>21.301<mode:3>SSB<call:4>SN8F<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:6>Poland<muls:2>46<p:1>3<pfx:3>SN8<pref:2>SP<r:1>1<srx:3>347<stx:2>60<eor>
+<qso_date:8>20060325<time_on:6>074613<freq:6>21.275<mode:3>SSB<call:4>T68G<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:11>Afghanistan<muls:2>47<p:1>1<pfx:3>T68<pref:2>YA<r:1>1<srx:3>045<stx:2>61<eor>
+<qso_date:8>20060325<time_on:6>075045<freq:6>21.220<mode:3>SSB<call:4>UR7M<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Ukraine<muls:2>48<p:1>3<pfx:3>UR7<pref:2>UR<r:1>1<srx:3>048<stx:2>62<eor>
+<qso_date:8>20060325<time_on:6>075211<freq:6>21.225<mode:3>SSB<call:5>UA4RZ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>49<p:1>3<pfx:3>UA4<pref:2>UA<r:1>1<srx:3>134<stx:2>63<eor>
+<qso_date:8>20060325<time_on:6>075300<freq:6>21.225<mode:3>SSB<call:4>RC4Q<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>50<p:1>3<pfx:3>RC4<pref:2>UA<r:1>1<srx:3>094<stx:2>64<eor>
+<qso_date:8>20060325<time_on:6>080627<freq:6>21.330<mode:3>SSB<call:5>9M2TO<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>West Malaysia<p:1>1<pfx:3>9M2<pref:3>9M2<r:1>1<srx:3>121<stx:2>65<eor>
+<qso_date:8>20060325<time_on:6>081115<freq:6>21.195<mode:3>SSB<call:5>YB4IR<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<muls:2>51<p:1>3<pfx:3>YB4<pref:2>YB<r:1>1<srx:3>135<stx:2>66<eor>
+<qso_date:8>20060325<time_on:6>081305<freq:6>21.241<mode:3>SSB<call:4>LZ9W<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Bulgaria<muls:2>52<p:1>3<pfx:3>LZ9<pref:2>LZ<r:1>1<srx:3>041<stx:2>67<eor>
+<qso_date:8>20060325<time_on:6>082033<freq:6>21.282<mode:3>SSB<call:6>UT5UGT<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Ukraine<muls:2>53<p:1>3<pfx:3>UT5<pref:2>UR<r:1>1<srx:3>316<stx:2>68<eor>
+<qso_date:8>20060325<time_on:6>082321<freq:6>21.262<mode:3>SSB<call:6>YB1UUN<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Indonesia<p:1>3<pfx:3>YB1<pref:2>YB<r:1>1<srx:3>149<stx:2>69<eor>
+<qso_date:8>20060325<time_on:6>082742<freq:6>21.334<mode:3>SSB<call:5>9M2VF<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>West Malaysia<p:1>1<pfx:3>9M2<pref:3>9M2<r:1>1<srx:3>143<stx:2>70<eor>
+<qso_date:8>20060325<time_on:6>083731<freq:6>21.225<mode:3>SSB<call:5>XX9AU<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>Macau<muls:2>54<p:1>1<pfx:3>XX9<pref:3>XX9<r:1>1<srx:3>046<stx:2>71<eor>
+<qso_date:8>20060325<time_on:6>083907<freq:6>21.233<mode:3>SSB<call:5>RK4FD<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>55<p:1>3<pfx:3>RK4<pref:2>UA<r:1>1<srx:3>796<stx:2>72<eor>
+<qso_date:8>20060325<time_on:6>084829<freq:6>21.297<mode:3>SSB<call:5>BV6GU<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:6>Taiwan<muls:2>56<p:1>1<pfx:3>BV6<pref:2>BV<r:1>1<srx:3>294<stx:2>73<eor>
+<qso_date:8>20060325<time_on:6>085113<freq:6>21.213<mode:3>SSB<call:6>UA4FER<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<p:1>3<pfx:3>UA4<pref:2>UA<r:1>1<srx:3>433<stx:2>74<eor>
+<qso_date:8>20060325<time_on:6>085415<freq:6>21.280<mode:3>SSB<call:5>VK2MY<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<p:1>3<pfx:3>VK2<pref:2>VK<r:1>1<srx:3>045<stx:2>75<eor>
+<qso_date:8>20060325<time_on:6>085536<freq:6>21.318<mode:3>SSB<call:6>VR2XLN<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Hong Kong<p:1>1<pfx:3>VR2<pref:2>VR<r:1>1<srx:3>341<stx:2>76<eor>
+<qso_date:8>20060325<time_on:6>085655<freq:6>21.255<mode:3>SSB<call:6>RK3QWW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>57<p:1>3<pfx:3>RK3<pref:2>UA<r:1>1<srx:3>462<stx:2>77<eor>
+<qso_date:8>20060325<time_on:6>090942<freq:6>21.235<mode:3>SSB<call:5>LZ1BJ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Bulgaria<muls:2>58<p:1>3<pfx:3>LZ1<pref:2>LZ<r:1>1<srx:3>062<stx:2>78<eor>
+<qso_date:8>20060325<time_on:6>090957<freq:6>21.235<mode:3>SSB<call:5>RA0AM<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>59<p:1>1<pfx:3>RA0<pref:3>UA9<r:1>1<srx:3>328<stx:2>79<eor>
+<qso_date:8>20060325<time_on:6>091219<freq:6>21.235<mode:3>SSB<call:5>RW4LQ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>60<p:1>3<pfx:3>RW4<pref:2>UA<r:1>1<srx:3>021<stx:2>80<eor>
+<qso_date:8>20060325<time_on:6>091239<freq:6>21.235<mode:3>SSB<call:5>RA4LW<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>61<p:1>3<pfx:3>RA4<pref:2>UA<r:1>1<srx:3>410<stx:2>81<eor>
+<qso_date:8>20060325<time_on:6>091345<freq:6>21.235<mode:3>SSB<call:7>BA4CH/7<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<muls:2>62<p:1>1<pfx:3>BA7<pref:2>BY<r:1>1<srx:3>082<stx:2>82<eor>
+<qso_date:8>20060325<time_on:6>091513<freq:6>21.235<mode:3>SSB<call:5>RV9UP<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<muls:2>63<p:1>1<pfx:3>RV9<pref:3>UA9<r:1>1<srx:3>003<stx:2>83<eor>
+<qso_date:8>20060325<time_on:6>091752<freq:6>21.235<mode:3>SSB<call:6>UA9CLB<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>Asiatic Russia<p:1>1<pfx:3>UA9<pref:3>UA9<r:1>1<srx:3>662<stx:2>84<eor>
+<qso_date:8>20060325<time_on:6>092022<freq:6>21.235<mode:3>SSB<call:6>UA4PAN<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<p:1>3<pfx:3>UA4<pref:2>UA<r:1>1<srx:3>024<stx:2>85<eor>
+<qso_date:8>20060325<time_on:6>092128<freq:6>21.235<mode:3>SSB<call:6>UA3ABJ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:14>European Russi<muls:2>64<p:1>3<pfx:3>UA3<pref:2>UA<r:1>1<srx:3>293<stx:2>86<eor>
+<qso_date:8>20060325<time_on:6>092353<freq:6>21.183<mode:3>SSB<call:9>UK/JI2MED<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:10>Uzbekistan<muls:2>65<p:1>1<pfx:3>UK0<pref:2>UK<r:1>1<srx:3>287<stx:2>87<eor>
+<qso_date:8>20060325<time_on:6>092711<freq:6>21.291<mode:3>SSB<call:4>OM7M<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:8>Slovakia<muls:2>66<p:1>3<pfx:3>OM7<pref:2>OM<r:1>1<srx:3>065<stx:2>88<eor>
+<qso_date:8>20060325<time_on:6>123914<freq:6>21.400<mode:3>SSB<call:5>BA5DX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<muls:2>67<p:1>1<pfx:3>BA5<pref:2>BY<r:1>1<srx:3>001<stx:2>89<eor>
+<qso_date:8>20060325<time_on:6>123925<freq:6>21.400<mode:3>SSB<call:6>BG5HMI<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<muls:2>68<p:1>1<pfx:3>BG5<pref:2>BY<r:1>1<srx:3>001<stx:2>90<eor>
+<qso_date:8>20060325<time_on:6>124111<freq:6>21.400<mode:3>SSB<call:6>BG5HIJ<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:5>China<p:1>1<pfx:3>BG5<pref:2>BY<r:1>1<srx:3>001<stx:2>91<eor>
+<qso_date:8>20060325<time_on:6>230341<freq:6>21.306<mode:3>SSB<call:5>KG2DX<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>United States<muls:2>69<p:1>3<pfx:3>KG2<pref:1>K<r:1>1<srx:3>826<stx:2>92<eor>
+<qso_date:8>20060326<time_on:6>011117<freq:6>21.271<mode:3>SSB<call:4>NR6O<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:13>United States<muls:2>70<p:1>3<pfx:3>NR6<pref:1>K<r:1>1<srx:3>663<stx:2>93<eor>
+<qso_date:8>20060326<time_on:6>011859<freq:6>21.242<mode:3>SSB<call:4>KH7X<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:6>Hawaii<muls:2>71<p:1>3<pfx:3>KH7<pref:3>KH6<r:1>1<srx:4>1100<stx:2>94<eor>
+<qso_date:8>20060326<time_on:6>075238<freq:6>21.235<mode:3>SSB<call:5>OV7AB<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Denmark<muls:2>72<p:1>3<pfx:3>OV7<pref:2>OZ<r:1>1<srx:3>531<stx:2>95<eor>
+<qso_date:8>20060326<time_on:6>075247<freq:6>21.192<mode:3>SSB<call:5>VK4WR<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:9>Australia<p:1>3<pfx:3>VK4<pref:2>VK<r:1>1<srx:4>1061<stx:2>96<eor>
+<qso_date:8>20060326<time_on:6>075330<freq:6>21.239<mode:3>SSB<call:6>UR3IFD<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:7>Ukraine<muls:2>73<p:1>3<pfx:3>UR3<pref:2>UR<r:1>1<srx:3>021<stx:2>97<eor>
+<qso_date:8>20060326<time_on:6>083055<freq:6>21.300<mode:3>SSB<call:5>5B4KH<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:6>Cyprus<muls:2>74<p:1>1<pfx:3>5B4<pref:2>5B<r:1>1<srx:3>050<stx:2>98<eor>
+<qso_date:8>20060326<time_on:6>083427<freq:6>21.200<mode:3>SSB<call:3>C4M<rst_sent:2>59<rst_rcvd:2>59<band:3>15m<country:6>Cyprus<muls:2>75<p:1>1<pfx:2>C4<pref:2>5B<r:1>1<srx:4>1209<stx:2>99<eor>
+<qso_date:8>20060422<time_on:6>083000<freq:6>29.600<mode:2>FM<call:6>BG7IWZ<rst_sent:2>59<rst_rcvd:2>57<comment:13>FT857 20W INV<qth:12>广东东莞<eor>
+<qso_date:8>20060501<time_on:6>082300<freq:6>21.216<mode:3>SSB<call:6>JL8GFB<rst_sent:2>59<rst_rcvd:2>59<comment:8>1KW YAGI<my_rig:15>IC706 100W WIRE<name:3>MAN<eor>
+<qso_date:8>20060501<time_on:6>083100<freq:6>21.400<mode:3>SSB<call:6>BG7IFL<rst_sent:2>51<rst_rcvd:2>51<my_rig:15>IC706 100W WIRE<qth:12>广东湛江<eor>
+<qso_date:8>20060501<time_on:6>091800<freq:6>21.310<mode:3>SSB<call:5>T88KL<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>IC706 100W WIRE<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20060719<qslsdate:8>20060605<eor>
+<qso_date:8>20060502<time_on:6>023100<freq:6>14.260<mode:3>SSB<call:8>BD1DRJ/4<rst_sent:2>55<rst_rcvd:2>55<my_rig:15>IC706 100W WIRE<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20060709<qslsdate:8>20060605<eor>
+<qso_date:8>20060502<time_on:6>035200<freq:6>21.245<mode:3>SSB<call:6>JH2UZR<rst_sent:2>59<rst_rcvd:2>59<comment:28>FT1000MP 200W 2ELEYAGI FB21C<my_rig:15>IC706 100W WIRE<name:5>YOSHI<qth:9>NR NAGOYA<eor>
+<qso_date:8>20060502<time_on:6>041500<freq:6>18.075<mode:2>CW<call:6>JH3GCN<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>IC706 100W WIRE<name:3>KOH<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20060701<qslsdate:8>20060605<eor>
+<qso_date:8>20060502<time_on:6>041800<freq:6>21.220<mode:3>SSB<call:6>JE1QBU<rst_sent:2>55<rst_rcvd:2>55<my_rig:15>IC706 100W WIRE<name:8>NR TOKYO<qth:5>NOTHA<eor>
+<qso_date:8>20060504<time_on:6>123900<freq:6>14.013<mode:2>CW<call:5>VR2UW<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>IC706 100W WIRE<name:3>RAY<eor>
+<qso_date:8>20060504<time_on:6>131100<freq:6>14.011<mode:2>CW<call:5>VR2AJ<rst_sent:3>599<rst_rcvd:3>579<my_rig:15>IC706 100W WIRE<name:3>MAK<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20060801<qslsdate:8>20060605<eor>
+<qso_date:8>20060507<time_on:6>085800<freq:6>14.270<mode:3>SSB<call:6>BG7KQT<rst_sent:2>59<rst_rcvd:2>59<comment:18>TS450 25W 3ELEYAGI<my_rig:13>FT847 100W GP<qslrdate:6>060606<qslsdate:6>060606<qth:12>广东深圳<eor>
+<qso_date:8>20060507<time_on:6>091600<freq:6>21.400<mode:3>SSB<call:6>BG8NBG<rst_sent:2>57<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<qslrdate:6>060606<qslsdate:6>060606<qth:12>贵州遵义<eor>
+<qso_date:8>20060507<time_on:6>101000<freq:6>14.270<mode:3>SSB<call:6>BD3ABR<rst_sent:2>58<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>060628<qslsdate:6>060605<qth:6>天津<eor>
+<qso_date:8>20060507<time_on:6>101200<freq:7>434.950<mode:2>FM<call:6>BG5HKS<rst_sent:2>51<rst_rcvd:2>51<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060509<time_on:6>032200<freq:6>29.600<mode:2>FM<call:6>BG5UAB<rst_sent:2>53<rst_rcvd:2>59<my_rig:15>IC706 100W VERT<qth:12>福建泉州<eor>
+<qso_date:8>20060509<time_on:6>103100<freq:6>24.893<mode:2>CW<call:5>VR2BG<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:4>ALEX<qslrdate:6>070101<qslsdate:6>060605<eor>
+<qso_date:8>20060510<time_on:6>082500<freq:6>14.270<mode:3>SSB<call:5>BV6JO<rst_sent:2>59<rst_rcvd:2>59<comment:9>IC706 10W<my_rig:15>FT847 100W VERT<qslrdate:6>060606<qslsdate:6>060606<qth:12>台湾台南<eor>
+<qso_date:8>20060510<time_on:6>083500<freq:6>14.275<mode:3>SSB<call:5>BV2FD<rst_sent:2>59<rst_rcvd:2>59<comment:13>TS520 CLD 26C<my_rig:15>FT847 100W VERT<name:3>连<qth:12>台湾台北<eor>
+<qso_date:8>20060510<time_on:6>085800<freq:6>18.096<mode:2>CW<call:6>JH0RNN<rst_sent:3>599<rst_rcvd:3>599<comment:13>100W 4ELEYAGI<my_rig:15>FT847 100W VERT<name:4>HIRO<qth:7>NIIGATA<eor>
+<qso_date:8>20060510<time_on:6>090300<freq:6>18.097<mode:2>CW<call:8>UR5FA/MM<rst_sent:3>599<rst_rcvd:3>579<comment:2>5W<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060605<eor>
+<qso_date:8>20060510<time_on:6>124600<freq:6>14.006<mode:2>CW<call:4>W5IZ<rst_sent:3>579<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060605<eor>
+<qso_date:8>20060510<time_on:6>125500<freq:6>14.005<mode:2>CW<call:6>DS5USH<rst_sent:3>589<rst_rcvd:3>589<my_rig:15>FT847 100W VERT<name:3>NAM<qslrdate:6>070101<qslsdate:6>060605<qth:8>NR DAEGU<eor>
+<qso_date:8>20060510<time_on:6>125700<freq:6>14.011<mode:2>CW<call:6>UA9MAX<rst_sent:3>589<rst_rcvd:3>589<my_rig:15>FT847 100W VERT<name:4>OLEG<qth:4>OMSK<eor>
+<qso_date:8>20060510<time_on:6>130200<freq:6>14.014<mode:2>CW<call:6>UA0CNX<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:4>VLAD<qth:6>KHALIN<eor>
+<qso_date:8>20060510<time_on:6>130600<freq:6>14.019<mode:2>CW<call:5>RV9UR<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:4>NICK<eor>
+<qso_date:8>20060510<time_on:6>130900<freq:6>14.022<mode:2>CW<call:6>RV6HDR<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:5>SERGE<eor>
+<qso_date:8>20060510<time_on:6>132600<freq:6>14.070<mode:3>PSK<call:5>RW9MZ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:6>ANDREJ<qslrdate:6>070120<qslsdate:6>060801<qth:4>OMSK<eor>
+<qso_date:8>20060510<time_on:6>133000<freq:6>14.070<mode:3>PSK<call:5>YB1AD<rst_sent:3>599<rst_rcvd:3>599<comment:34>OI33PR TS850S 30W 3ELEYAGI 20M 27C<my_rig:15>FT847 100W VERT<name:5>DEEEY<qth:4>JAVA<eor>
+<qso_date:8>20060510<time_on:6>134000<freq:6>14.070<mode:3>PSK<call:6>HS0ZEU<rst_sent:3>559<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<name:3>MAN<qth:7>NAKHOAK<eor>
+<qso_date:8>20060510<time_on:6>134300<freq:6>14.070<mode:3>PSK<call:5>UA0OZ<rst_sent:3>599<rst_rcvd:3>599<comment:33>IC718 50W GP 58YRS HAM SINCE 1970<my_rig:15>FT847 100W VERT<name:6>EUGENE<qth:12>NOVOSIBIRISK<eor>
+<qso_date:8>20060510<time_on:6>135100<freq:6>14.070<mode:3>PSK<call:10>3B9/ON4LAC<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060605<eor>
+<qso_date:8>20060510<time_on:6>232300<freq:6>14.070<mode:3>PSK<call:6>E20WXA<rst_sent:3>599<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<name:4>CHAI<qth:6>BANKOK<eor>
+<qso_date:8>20060510<time_on:6>232500<freq:6>14.070<mode:3>PSK<call:5>EK6TA<rst_sent:3>599<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<name:5>HOVIK<qslrdate:6>070101<qslsdate:6>060605<eor>
+<qso_date:8>20060510<time_on:6>235600<freq:6>14.070<mode:3>PSK<call:6>VK5NLI<rst_sent:3>549<rst_rcvd:3>559<comment:40>PF95LV FT990 50W 3ELEYAGI 63YRS RAIN 14C<my_rig:15>FT847 100W VERT<name:3>RON<qslrdate:6>060828<qslsdate:6>060605<qth:8>ADELAIDE<eor>
+<qso_date:8>20060511<time_on:6>080800<freq:6>29.600<mode:2>FM<call:6>BG8ASG<rst_sent:2>59<rst_rcvd:2>59<my_rig:14>IC706 25W VERT<qslrdate:6>060606<qslsdate:6>060606<qth:12>四川成都<eor>
+<qso_date:8>20060511<time_on:6>082100<freq:6>14.070<mode:3>PSK<call:6>UA0ZAY<rst_sent:3>599<rst_rcvd:3>599<comment:13>FT990 400W GP<my_rig:15>FT847 100W VERT<name:4>IGOR<qth:8>PETROPAV<eor>
+<qso_date:8>20060511<time_on:6>084200<freq:6>14.070<mode:3>PSK<call:6>RA0JBL<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:5>SERGE<qth:4>ZEYA<eor>
+<qso_date:8>20060511<time_on:6>093100<freq:6>14.010<mode:2>CW<call:6>YD7MJX<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<name:5>HERLY<qth:6>BORNEO<eor>
+<qso_date:8>20060511<time_on:6>093800<freq:6>14.020<mode:2>CW<call:5>V85SS<rst_sent:3>559<rst_rcvd:3>589<my_rig:15>FT847 100W VERT<qslrdate:6>060711<qslsdate:6>060605<eor>
+<qso_date:8>20060511<time_on:6>120300<freq:6>21.070<mode:3>PSK<call:6>JH2DPN<rst_sent:3>599<rst_rcvd:3>579<comment:6>PM86PD<my_rig:15>FT847 100W VERT<name:7>YOSHILV<qth:8>TAKAYAMA<eor>
+<qso_date:8>20060511<time_on:6>121000<freq:6>21.070<mode:3>PSK<call:5>ON6FN<rst_sent:3>599<rst_rcvd:3>599<comment:32>JO20VI FT900 30W 5ELEYAGI FB 23C<my_rig:15>FT847 100W VERT<name:4>NOEL<qslrdate:6>060901<qslsdate:6>060605<qth:7>PINSTER<eor>
+<qso_date:8>20060511<time_on:6>121500<freq:6>21.070<mode:3>PSK<call:6>YC0BDS<rst_sent:3>599<rst_rcvd:3>599<comment:6>OI33FU<my_rig:15>FT847 100W VERT<name:6>DANIEL<qth:7>JAKARTA<eor>
+<qso_date:8>20060514<time_on:6>090500<freq:6>18.077<mode:2>CW<call:6>IK3VUT<rst_sent:3>559<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<name:4>LUKA<qslrdate:6>060816<qslsdate:6>060605<eor>
+<qso_date:8>20060514<time_on:6>090900<freq:6>18.081<mode:2>CW<call:6>3W9HRN<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<qslrdate:6>060801<qslsdate:6>060605<eor>
+<qso_date:8>20060514<time_on:6>091200<freq:6>14.217<mode:3>SSB<call:6>7K4XNN<rst_sent:2>59<rst_rcvd:2>59<comment:30>CLD 15C FT1000MP 500W 6ELEYAGI<my_rig:15>FT847 100W VERT<name:5>TOSHI<qth:8>NR TOKYO<eor>
+<qso_date:8>20060514<time_on:6>092200<freq:6>14.070<mode:3>PSK<call:6>JA1EJY<rst_sent:3>579<rst_rcvd:3>559<comment:6>PM95RT<my_rig:15>FT847 100W VERT<name:3>AKI<qth:7>SAITAMA<eor>
+<qso_date:8>20060514<time_on:6>092700<freq:6>14.070<mode:3>PSK<call:6>JA2AIB<rst_sent:3>599<rst_rcvd:3>579<comment:5>TS950<my_rig:15>FT847 100W VERT<name:5>TOKUO<qth:3>MIE<eor>
+<qso_date:8>20060514<time_on:6>093200<freq:6>14.070<mode:3>PSK<call:6>JA2DXB<rst_sent:3>599<rst_rcvd:3>579<comment:32>PM84SQ FT1000MP 50W DP10MH FB20C<my_rig:15>FT847 100W VERT<name:4>YUKI<qth:5>KOSAI<eor>
+<qso_date:8>20060514<time_on:6>093900<freq:6>14.070<mode:3>PSK<call:6>JA5DBE<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<qth:5>AHIME<eor>
+<qso_date:8>20060518<time_on:6>091300<freq:6>50.110<mode:3>SSB<call:6>JN4MNO<rst_sent:2>59<rst_rcvd:2>57<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060518<time_on:6>091400<freq:6>50.110<mode:3>SSB<call:6>JR2HCN<rst_sent:2>55<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060518<time_on:6>091500<freq:6>50.110<mode:3>SSB<call:6>JA3FYC<rst_sent:2>57<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060518<time_on:6>091500<freq:6>50.110<mode:3>SSB<call:6>JI3FSI<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>060606<qslsdate:6>060606<eor>
+<qso_date:8>20060518<time_on:6>091600<freq:6>50.110<mode:3>SSB<call:6>JF6EZY<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060518<time_on:6>091600<freq:6>50.110<mode:3>SSB<call:6>JG3LEB<rst_sent:2>57<rst_rcvd:2>56<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060621<time_on:6>062100<freq:7>145.380<mode:2>FM<call:8>BG1LKK/4<rst_sent:2>59<rst_rcvd:2>59<my_rig:13>IC229 5W VERT<qth:12>江苏无锡<eor>
+<qso_date:8>20060625<time_on:6>090300<freq:6>14.270<mode:3>SSB<call:6>BG7IYA<rst_sent:2>59<rst_rcvd:2>59<comment:3>25W<my_rig:15>FT847 100W VERT<qth:12>广东佛山<eor>
+<qso_date:8>20060625<time_on:6>090900<freq:6>14.070<mode:3>PSK<call:5>BX4AN<rst_sent:3>599<rst_rcvd:3>599<comment:25>PL04FG FT900 50W 4ELEYAGI<my_rig:15>FT847 100W VERT<name:3>Pro<qth:6>Miaoli<eor>
+<qso_date:8>20060625<time_on:6>091600<freq:6>14.070<mode:3>PSK<call:5>VK6DU<rst_sent:3>599<rst_rcvd:3>599<comment:17>OF87aw 60W TH6DXX<my_rig:15>FT847 100W VERT<name:5>Lance<qth:8>NR Perth<eor>
+<qso_date:8>20060625<time_on:6>092600<freq:6>18.070<mode:2>CW<call:5>WH0DX<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060625<time_on:6>093100<freq:6>50.110<mode:3>SSB<call:6>JG3LEB<rst_sent:2>57<rst_rcvd:2>56<my_rig:15>FT847 100W VERT<name:4>HIRO<eor>
+<qso_date:8>20060712<time_on:6>025200<freq:6>50.110<mode:3>SSB<call:5>VR2BG<rst_sent:2>51<rst_rcvd:2>31<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060714<time_on:6>235800<freq:6>29.580<mode:2>FM<call:6>JR3LUZ<rst_sent:2>55<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>000800<freq:6>14.195<mode:3>SSB<call:5>BD4XA<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060715<time_on:6>001300<freq:6>14.195<mode:3>SSB<call:8>BD7KLO/7<rst_sent:2>59<rst_rcvd:2>55<comment:5>AS094<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<qth:12>海南三亚<eor>
+<qso_date:8>20060715<time_on:6>001900<freq:6>14.255<mode:3>SSB<call:5>BY7KH<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qth:12>广东广州<eor>
+<qso_date:8>20060715<time_on:6>002700<freq:6>18.130<mode:3>SSB<call:6>HL5BMX<rst_sent:2>59<rst_rcvd:2>58<my_rig:15>FT847 100W VERT<name:3>LEE<eor>
+<qso_date:8>20060715<time_on:6>002900<freq:6>18.090<mode:2>CW<call:5>T88DJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060715<time_on:6>003100<freq:6>18.115<mode:3>SSB<call:6>JG4ITR<rst_sent:2>57<rst_rcvd:2>57<my_rig:15>FT847 100W VERT<name:3>KEN<eor>
+<qso_date:8>20060715<time_on:6>003500<freq:6>50.110<mode:3>SSB<call:6>JA3EGE<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>003700<freq:6>50.110<mode:3>SSB<call:6>JF2AIA<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>004000<freq:6>29.600<mode:2>FM<call:6>BG9AFM<rst_sent:2>59<rst_rcvd:2>59<comment:13>FT897 40W INV<my_rig:15>FT847 100W VERT<qslrdate:6>060724<qslsdate:6>060805<qth:12>陕西西安<eor>
+<qso_date:8>20060715<time_on:6>004200<freq:6>29.580<mode:2>FM<call:5>BD9BA<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qth:12>陕西西安<eor>
+<qso_date:8>20060715<time_on:6>004400<freq:6>29.580<mode:2>FM<call:6>BG1GYX<rst_sent:2>57<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<qslrdate:6>060814<qslsdate:6>060805<qth:6>北京<eor>
+<qso_date:8>20060715<time_on:6>004600<freq:6>29.600<mode:2>FM<call:6>BG4JWU<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>060812<qslsdate:6>060805<qth:12>山东济南<eor>
+<qso_date:8>20060715<time_on:6>005200<freq:6>50.110<mode:3>SSB<call:6>JR9RKU<rst_sent:2>55<rst_rcvd:2>53<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>005300<freq:6>50.110<mode:3>SSB<call:6>JE2TRG<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>010400<freq:6>50.110<mode:3>SSB<call:5>BD9BA<rst_sent:2>55<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>010500<freq:6>50.110<mode:3>SSB<call:6>JF2KOL<rst_sent:2>55<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060715<time_on:6>034800<freq:6>29.600<mode:2>FM<call:8>BG5HJE/6<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qth:12>湖北赤壁<eor>
+<qso_date:8>20060715<time_on:6>234400<freq:6>18.090<mode:2>CW<call:8>JE9PEM/9<rst_sent:3>559<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>010000<freq:6>50.110<mode:3>SSB<call:6>JR6EXN<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<name:4>HIDE<eor>
+<qso_date:8>20060716<time_on:6>021300<freq:6>50.100<mode:2>CW<call:6>JR2UJG<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>021400<freq:6>50.100<mode:2>CW<call:6>JF1KJC<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<qslrdate:6>060728<qslsdate:6>060805<eor>
+<qso_date:8>20060716<time_on:6>021600<freq:6>50.100<mode:2>CW<call:6>JA7WSZ<rst_sent:3>579<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>021700<freq:6>50.100<mode:2>CW<call:6>JA2NOV<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>021800<freq:6>50.100<mode:2>CW<call:6>JA9LSZ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>021900<freq:6>50.100<mode:2>CW<call:6>JA1PVI<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<qslrdate:6>060728<qslsdate:6>060805<eor>
+<qso_date:8>20060716<time_on:6>022000<freq:6>50.100<mode:2>CW<call:6>JA3FYC<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022100<freq:6>50.100<mode:2>CW<call:6>JJ1IDW<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022200<freq:6>50.100<mode:2>CW<call:5>JA7KE<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022300<freq:6>50.100<mode:2>CW<call:6>JA4BDM<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022300<freq:6>50.100<mode:2>CW<call:6>JE1BMJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022400<freq:6>50.100<mode:2>CW<call:6>JH4OSR<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022400<freq:6>50.100<mode:2>CW<call:6>JK1HCE<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022500<freq:6>50.100<mode:2>CW<call:6>JH9AUB<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022600<freq:6>50.100<mode:2>CW<call:6>JA2ARN<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022700<freq:6>50.100<mode:2>CW<call:6>JA3MNC<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022700<freq:6>50.100<mode:2>CW<call:6>JJ1VEZ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022800<freq:6>50.100<mode:2>CW<call:6>JA1MRU<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>022800<freq:6>50.100<mode:2>CW<call:5>JA3DY<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<qslrdate:6>070120<qslsdate:6>060801<eor>
+<qso_date:8>20060716<time_on:6>022900<freq:6>50.100<mode:2>CW<call:6>7N1XMD<rst_sent:3>559<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<qslrdate:6>070120<qslsdate:6>060801<eor>
+<qso_date:8>20060716<time_on:6>022900<freq:6>50.100<mode:2>CW<call:6>JG3WEU<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023000<freq:6>50.100<mode:2>CW<call:6>JF2WXS<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<qslrdate:6>060728<qslsdate:6>060805<eor>
+<qso_date:8>20060716<time_on:6>023100<freq:6>50.100<mode:2>CW<call:6>JA0GLM<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023100<freq:6>50.100<mode:2>CW<call:6>JA1FWJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023200<freq:6>50.100<mode:2>CW<call:6>JA1RJU<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023300<freq:6>50.100<mode:2>CW<call:6>JA1FVJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023300<freq:6>50.100<mode:2>CW<call:6>JA3EGE<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023400<freq:6>50.100<mode:2>CW<call:6>JG3DOC<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023500<freq:6>50.100<mode:2>CW<call:7>JA8LP/1<rst_sent:3>599<rst_rcvd:3>579<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023500<freq:6>50.100<mode:2>CW<call:6>JH1IIT<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023700<freq:6>50.100<mode:2>CW<call:6>7K2ECJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023700<freq:6>50.100<mode:2>CW<call:6>JH7XRZ<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>023800<freq:6>50.100<mode:2>CW<call:6>JR5XPG<rst_sent:3>599<rst_rcvd:3>599<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>024000<freq:6>50.100<mode:2>CW<call:6>JL1AGY<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>024100<freq:6>50.100<mode:2>CW<call:6>JA3PRB<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>025400<freq:6>50.115<mode:3>SSB<call:6>JA9LSZ<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>025400<freq:6>50.115<mode:3>SSB<call:6>JJ3WEU<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>025500<freq:6>50.115<mode:3>SSB<call:6>JA0GLM<rst_sent:2>59<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>025500<freq:6>50.115<mode:3>SSB<call:6>JR7TEQ<rst_sent:2>55<rst_rcvd:2>55<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060716<time_on:6>025600<freq:6>50.115<mode:3>SSB<call:6>JR5XPG<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060722<time_on:6>091400<freq:6>14.270<mode:3>SSB<call:5>BD7YK<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>060805<qslsdate:6>060815<qth:12>海南海口<eor>
+<qso_date:8>20060722<time_on:6>092700<freq:6>14.017<mode:2>CW<call:6>UE0ZRD<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<name:4>ALEX<eor>
+<qso_date:8>20060722<time_on:6>093000<freq:6>14.017<mode:2>CW<call:6>JH1QDF<rst_sent:3>599<rst_rcvd:3>559<my_rig:15>FT847 100W VERT<name:4>KIYO<eor>
+<qso_date:8>20060729<time_on:6>093100<freq:6>21.265<mode:3>SSB<call:8>BD7KLO/7<rst_sent:2>56<rst_rcvd:2>59<comment:5>AS129<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>093200<freq:6>21.256<mode:3>SSB<call:4>BV0O<rst_sent:2>59<rst_rcvd:2>59<comment:9>VIA BV2KI<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>094600<freq:6>21.282<mode:3>SSB<call:6>JA5SRJ<rst_sent:2>59<rst_rcvd:2>57<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>095100<freq:6>21.230<mode:3>SSB<call:6>VU2NKS<rst_sent:2>59<rst_rcvd:2>58<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>095200<freq:6>21.230<mode:3>SSB<call:5>BY8AC<rst_sent:2>59<rst_rcvd:2>58<my_rig:15>FT847 100W VERT<name:3>杨<qslrdate:6>060814<qslsdate:6>060805<qth:12>四川成都<eor>
+<qso_date:8>20060729<time_on:6>095900<freq:6>21.290<mode:3>SSB<call:4>4O3T<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>100500<freq:6>14.275<mode:3>SSB<call:4>BV0O<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>101700<freq:6>14.180<mode:3>SSB<call:5>VR2AJ<rst_sent:2>59<rst_rcvd:2>59<my_rig:15>FT847 100W VERT<name:3>MAK<eor>
+<qso_date:8>20060729<time_on:6>120100<freq:6>14.257<mode:3>SSB<call:6>UA4LCH<rst_sent:2>59<rst_rcvd:2>59<comment:7>001-002<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>120200<freq:6>14.253<mode:3>SSB<call:5>B7P/7<rst_sent:2>59<rst_rcvd:2>59<comment:13>002-002 AS131<my_rig:15>FT847 100W VERT<qslrdate:6>060812<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>120400<freq:6>14.240<mode:3>SSB<call:4>YB0A<rst_sent:2>59<rst_rcvd:2>59<comment:13>003-006 OC021<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>120600<freq:6>14.251<mode:3>SSB<call:4>RL3A<rst_sent:2>59<rst_rcvd:2>59<comment:7>004-020<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>120800<freq:6>14.273<mode:3>SSB<call:6>YB2ECG<rst_sent:2>59<rst_rcvd:2>59<comment:13>005-004 OC021<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>120900<freq:6>14.260<mode:3>SSB<call:8>BG1DRJ/2<rst_sent:2>59<rst_rcvd:2>59<comment:13>006-012 AS158<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>121200<freq:6>14.273<mode:3>SSB<call:4>UR7M<rst_sent:2>59<rst_rcvd:2>59<comment:7>007-029<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>121300<freq:6>14.226<mode:3>SSB<call:6>RZ6HAZ<rst_sent:2>59<rst_rcvd:2>59<comment:7>008-014<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>121700<freq:6>14.247<mode:3>SSB<call:5>UY9IF<rst_sent:2>59<rst_rcvd:2>59<comment:7>009-014<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060729<time_on:6>122500<freq:6>14.039<mode:2>CW<call:6>UA4SAW<rst_sent:3>599<rst_rcvd:3>599<comment:7>010-010<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>122800<freq:6>14.025<mode:2>CW<call:6>YB0ECT<rst_sent:3>599<rst_rcvd:3>599<comment:7>011-016<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060729<time_on:6>123000<freq:6>14.167<mode:3>SSB<call:5>9V1UV<rst_sent:2>59<rst_rcvd:2>59<comment:13>012-005 AS019<my_rig:15>FT847 100W VERT<qslrdate:6>070101<qslsdate:6>060805<eor>
+<qso_date:8>20060730<time_on:6>011500<freq:6>14.205<mode:3>SSB<call:8>BD7KLO/7<rst_sent:2>59<rst_rcvd:2>59<comment:13>013-332 AS129<my_rig:15>FT847 100W VERT<qslrdate:7>0701010<qslsdate:6>060805<eor>
+<qso_date:8>20060730<time_on:6>020100<freq:6>21.265<mode:3>SSB<call:6>YC0NFL<rst_sent:2>59<rst_rcvd:2>59<comment:13>014-015 OC021<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060730<time_on:6>080000<freq:6>21.197<mode:3>SSB<call:5>DZ50W<rst_sent:2>59<rst_rcvd:2>59<comment:13>015-091 OC020<my_rig:15>FT847 100W VERT<eor>
+<qso_date:8>20060803<time_on:6>083500<freq:6>14.070<mode:3>PSK<call:5>ON5GD<rst_sent:3>599<rst_rcvd:3>599<comment:25>JO20EO FT1000MP 7ELE RAIN<my_rig:12>100W 1/2VERT<name:5>FELIX<qth:8>CLERMONT<eor>
+<qso_date:8>20060803<time_on:6>085500<freq:6>14.070<mode:3>PSK<call:6>BD4ITN<rst_sent:3>599<rst_rcvd:3>599<comment:6>PM17BM<my_rig:12>100W 1/2VERT<name:4>ZHOU<qslrdate:6>070101<qslsdate:6>060805<qth:6>WEIHAI<eor>
+<qso_date:8>20060803<time_on:6>114400<freq:6>14.070<mode:3>PSK<call:5>RA0SF<rst_sent:3>579<rst_rcvd:3>599<comment:30>OO12RI IC746 100W 2ELECUBEQUAD<my_rig:12>100W 1/2VERT<name:7>ALEKSEJ<qth:7>ANGARSK<eor>
+<qso_date:8>20060805<time_on:6>070400<freq:6>21.400<mode:3>SSB<call:6>BG7KQT<rst_sent:2>58<rst_rcvd:2>59<comment:5>qsled<eor>
+<qso_date:8>20060805<time_on:6>084900<freq:6>14.270<mode:3>SSB<call:6>BP100S<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qth:12>台湾苗栗<eor>
+<qso_date:8>20060815<time_on:6>143900<freq:6>14.006<mode:2>CW<call:5>DK3FW<rst_sent:3>569<rst_rcvd:3>599<comment:12>100W CLD 17C<my_rig:11>10W 1/2VERT<name:6>DIETER<qth:8>HANNOVER<eor>
+<qso_date:8>20060824<time_on:6>145200<freq:6>14.018<mode:2>CW<call:5>BX2AK<rst_sent:3>579<rst_rcvd:3>599<my_rig:10>5W 1/2VERT<qslrdate:6>070101<qslsdate:6>060825<qth:6>TAIPEI<eor>
+<qso_date:8>20060825<time_on:6>130000<freq:6>14.024<mode:2>CW<call:5>RU4SU<rst_sent:3>559<rst_rcvd:3>579<my_rig:10>5W 1/2VERT<name:3>VIC<eor>
+<qso_date:8>20060825<time_on:6>131800<freq:6>14.018<mode:2>CW<call:5>VR2MY<rst_sent:3>599<rst_rcvd:3>599<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20060825<time_on:6>132200<freq:6>14.021<mode:2>CW<call:6>EO15ID<rst_sent:3>559<rst_rcvd:3>559<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20060825<time_on:6>143000<freq:6>14.023<mode:2>CW<call:6>SM5CAK<rst_sent:3>559<rst_rcvd:3>599<my_rig:10>5W 1/2VERT<name:4>LARS<qslrdate:6>070101<qslsdate:6>060825<qth:7>MOTALAH<eor>
+<qso_date:8>20070108<time_on:6>090400<freq:6>14.025<mode:2>CW<call:5>BX0ZR<rst_sent:3>599<rst_rcvd:3>599<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20070110<time_on:6>092800<freq:6>14.200<mode:3>SSB<call:6>DX1DBT<rst_sent:2>58<rst_rcvd:2>59<comment:16>TS440S 4ELE YAGI<my_rig:12>100W 1/2VERT<name:5>BRIAN<qth:6>MANILA<eor>
+<qso_date:8>20070110<time_on:6>233300<freq:6>14.030<mode:2>CW<call:5>YU1XA<rst_sent:3>559<rst_rcvd:3>559<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>043700<freq:6>29.600<mode:2>FM<call:6>BG7NWF<rst_sent:2>59<rst_rcvd:2>57<comment:11>25W 1/2Vert<my_rig:12>100W 1/2VERT<qth:6>深圳<eor>
+<qso_date:8>20070111<time_on:6>045300<freq:6>21.295<mode:3>SSB<call:5>S21XA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>065900<freq:6>14.195<mode:3>SSB<call:5>S21XA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>070200<freq:6>18.075<mode:2>CW<call:6>XU7ADI<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>071800<freq:6>18.073<mode:2>CW<call:5>S21XA<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>072300<freq:6>18.078<mode:2>CW<call:5>BX0ZR<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>080600<freq:6>14.200<mode:3>SSB<call:5>BV4VL<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>080800<freq:6>14.263<mode:3>SSB<call:6>BG1PMN<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>100500<freq:6>14.026<mode:2>CW<call:5>VR2AJ<rst_sent:3>599<rst_rcvd:3>599<comment:7>100W GP<my_rig:10>5W 1/2VERT<name:3>MAK<eor>
+<qso_date:8>20070111<time_on:6>101400<freq:6>14.020<mode:2>CW<call:5>XW3DT<rst_sent:3>599<rst_rcvd:3>599<comment:9>QSL RK3DT<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070111<time_on:6>102200<freq:6>14.206<mode:3>SSB<call:5>RN6CD<rst_sent:2>56<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:4>ALEX<eor>
+<qso_date:8>20070112<time_on:6>001100<freq:6>14.012<mode:2>CW<call:6>9M2MRS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070112<time_on:6>052500<freq:6>21.005<mode:2>CW<call:5>S21XA<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070112<time_on:6>053100<freq:6>14.025<mode:2>CW<call:6>JH4ANQ<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070122<time_on:6>064900<freq:6>29.600<mode:2>FM<call:5>BD7YK<rst_sent:2>59<rst_rcvd:2>59<comment:8>60W yagi<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070124<time_on:6>042400<freq:6>14.025<mode:2>CW<call:5>VU7RG<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070124<time_on:6>044300<freq:7>439.850<mode:2>FM<call:8>BG4ELD/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>50W VERT<eor>
+<qso_date:8>20070124<time_on:6>044500<freq:7>439.850<mode:2>FM<call:6>BG5HQK<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>50W VERT<eor>
+<qso_date:8>20070124<time_on:6>044700<freq:7>439.850<mode:2>FM<call:6>BG5EPE<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>50W VERT<eor>
+<qso_date:8>20070124<time_on:6>051100<freq:6>18.078<mode:2>CW<call:5>VU7RG<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070124<time_on:6>052000<freq:6>14.025<mode:2>CW<call:5>RZ6HV<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<name:3>VIC<eor>
+<qso_date:8>20070125<time_on:6>085200<freq:6>14.027<mode:2>CW<call:6>RK9UZA<rst_sent:3>559<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070125<time_on:6>091500<freq:6>14.012<mode:2>CW<call:5>CT3FT<rst_sent:3>589<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:6>CEDRIC<eor>
+<qso_date:8>20070125<time_on:6>092300<freq:6>14.019<mode:2>CW<call:5>RK0SA<rst_sent:3>579<rst_rcvd:3>599<comment:4>100W<my_rig:12>100W 1/2VERT<name:6>VICTOR<qth:7>IRKUTSK<eor>
+<qso_date:8>20070130<time_on:6>033000<freq:6>14.270<mode:3>SSB<call:6>BG7IPY<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070130<time_on:6>043600<freq:6>14.270<mode:3>SSB<call:6>BD2IAQ<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qth:12>吉林松辽<eor>
+<qso_date:8>20070130<time_on:6>050400<freq:6>14.270<mode:3>SSB<call:5>BD8GK<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070130<time_on:6>113100<freq:6>14.021<mode:2>CW<call:5>RA9MP<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>YURI<qth:7>NR OMSK<eor>
+<qso_date:8>20070131<time_on:6>102800<freq:6>14.180<mode:3>SSB<call:6>VR2VAC<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qth:9>Hong Kong<eor>
+<qso_date:8>20070203<time_on:6>071200<freq:6>14.018<mode:2>CW<call:5>BX2AK<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>071400<freq:6>18.077<mode:2>CW<call:6>XU7XRO<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>093100<freq:6>18.078<mode:2>CW<call:5>UA9ZZ<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>094200<freq:6>14.260<mode:3>SSB<call:8>BG8ATI/8<rst_sent:2>59<rst_rcvd:2>59<comment:4>80km<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>094800<freq:6>14.215<mode:3>SSB<call:5>RK9UE<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:5>Serge<eor>
+<qso_date:8>20070203<time_on:6>100100<freq:6>14.220<mode:3>SSB<call:6>E20WXA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>102100<freq:6>18.080<mode:3>SSB<call:5>RV9LF<rst_sent:3>579<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070203<time_on:6>235700<freq:6>14.025<mode:2>CW<call:6>JA2EPW<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:3>JIN<qsl_rcvd:1>Y<qslrdate:8>20080115<eor>
+<qso_date:8>20070204<time_on:6>000200<freq:6>14.207<mode:3>SSB<call:5>YB7JN<rst_sent:2>59<rst_rcvd:2>59<comment:36>IC751 100W 4ELE YAGI 28MH CLOUDY 27C<my_rig:12>100W 1/2VERT<name:4>JANI<qth:9>PELAIHARI<eor>
+<qso_date:8>20070204<time_on:6>000500<freq:6>14.010<mode:2>CW<call:10>9M2/JH3GCN<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070204<time_on:6>001200<freq:6>14.014<mode:2>CW<call:6>HS0ZBS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070204<time_on:6>003100<freq:6>14.006<mode:2>CW<call:6>9M2MRS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20070518<eor>
+<qso_date:8>20070204<time_on:6>010700<freq:6>14.020<mode:2>CW<call:5>JT1CS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070204<time_on:6>010900<freq:6>14.140<mode:3>SSB<call:6>JH1CNC<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:3>SEM<qth:6>MISATO<eor>
+<qso_date:8>20070204<time_on:6>084600<freq:6>18.074<mode:2>CW<call:7>LZ170VL<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070725<qslsdate:8>20070305<eor>
+<qso_date:8>20070204<time_on:6>085600<freq:6>14.011<mode:2>CW<call:4>4L8A<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070204<time_on:6>090000<freq:6>14.005<mode:2>CW<call:6>UA0WAB<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:4>YURI<eor>
+<qso_date:8>20070204<time_on:6>091400<freq:6>18.075<mode:2>CW<call:5>9V1PC<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>055100<freq:6>14.276<mode:3>SSB<call:6>JR7WAB<rst_sent:2>59<rst_rcvd:2>59<comment:7>001-227<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070324<time_on:6>055400<freq:6>14.304<mode:3>SSB<call:6>JF1SEK<rst_sent:2>59<rst_rcvd:2>59<comment:7>002-088<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080115<eor>
+<qso_date:8>20070324<time_on:6>055600<freq:6>14.319<mode:3>SSB<call:6>JH4UYB<rst_sent:2>59<rst_rcvd:2>59<comment:7>003-400<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070324<time_on:6>055700<freq:6>14.302<mode:3>SSB<call:4>SO2R<rst_sent:2>59<rst_rcvd:2>59<comment:7>004-062<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>055900<freq:6>14.245<mode:3>SSB<call:7>8J3YAGI<rst_sent:2>59<rst_rcvd:2>59<comment:7>005-223<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>060300<freq:6>21.235<mode:3>SSB<call:4>RO4M<rst_sent:2>59<rst_rcvd:2>59<comment:7>006-119<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>060500<freq:6>21.215<mode:3>SSB<call:4>RT9W<rst_sent:2>59<rst_rcvd:2>59<comment:7>007-114<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>060600<freq:6>21.242<mode:3>SSB<call:6>UA4HOX<rst_sent:2>59<rst_rcvd:2>59<comment:7>008-099<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>060700<freq:6>21.256<mode:3>SSB<call:6>DX1DBT<rst_sent:2>59<rst_rcvd:2>59<comment:7>009-130<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070324<time_on:6>061000<freq:6>21.269<mode:3>SSB<call:6>UA9JDP<rst_sent:2>59<rst_rcvd:2>59<comment:7>010-219<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070417<time_on:6>064300<freq:6>14.070<mode:3>PSK<call:8>JA1EHG/0<rst_sent:3>599<rst_rcvd:3>599<comment:19>PM86WK IC750 20W DP<my_rig:12>100W 1/2VERT<name:3>KAZ<qsl_rcvd:1>Y<qslrdate:8>20080628<qth:6>NAGANO<eor>
+<qso_date:8>20070417<time_on:6>090600<freq:6>28.490<mode:3>SSB<call:6>9W6SUE<rst_sent:2>59<rst_rcvd:2>59<comment:17>IC746 40W DP 18mh<my_rig:12>100W 1/2VERT<name:3>Bob<qth:4>Saba<eor>
+<qso_date:8>20070417<time_on:6>102000<freq:6>14.070<mode:3>PSK<call:6>UA0LKD<rst_sent:3>599<rst_rcvd:3>599<comment:6>PN53WE<my_rig:12>100W 1/2VERT<name:4>ALEX<qth:11>VLADIVOSTOK<eor>
+<qso_date:8>20070417<time_on:6>102700<freq:6>14.070<mode:3>PSK<call:5>UA3KA<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>IGOR<eor>
+<qso_date:8>20070417<time_on:6>153600<freq:6>14.070<mode:3>PSK<call:6>HS0ZBS<rst_sent:3>599<rst_rcvd:3>599<comment:22>OK04PB TS870 50W LW30M<my_rig:12>100W 1/2VERT<name:4>KURT<qth:6>PHANOM<eor>
+<qso_date:8>20070417<time_on:6>154200<freq:6>14.070<mode:3>PSK<call:5>ZS2ND<rst_sent:3>569<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:5>Neels<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070809<qslsdate:8>20070505<qth:8>Gamtools<eor>
+<qso_date:8>20070417<time_on:6>154900<freq:6>14.070<mode:3>PSK<call:4>UN3P<rst_sent:3>599<rst_rcvd:3>599<comment:6>MN69NV<my_rig:12>100W 1/2VERT<name:4>VLAD<qth:8>KARAGALA<eor>
+<qso_date:8>20070417<time_on:6>155700<freq:6>14.070<mode:3>PSK<call:5>BA5DX<rst_sent:3>599<rst_rcvd:3>599<comment:9>50W 10MGP<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070422<time_on:6>123100<freq:6>14.070<mode:3>PSK<call:4>R3AA<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>ALEX<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070830<qslsdate:8>20070505<qth:9>NR MOSCOW<eor>
+<qso_date:8>20070423<time_on:6>113400<freq:6>18.074<mode:2>CW<call:6>UA9MHN<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070423<time_on:6>143400<freq:6>14.070<mode:3>PSK<call:5>YU1CC<rst_sent:3>599<rst_rcvd:3>599<comment:6>KN03XH<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070425<time_on:6>082400<freq:6>18.098<mode:2>CW<call:6>JN3LQP<rst_sent:3>559<rst_rcvd:3>559<my_rig:10>5W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070425<time_on:6>082700<freq:6>18.128<mode:3>SSB<call:6>XU7TZG<rst_sent:2>57<rst_rcvd:2>59<comment:9>QSL:ON7PP<my_rig:10>5W 1/2VERT<name:3>Wim<qth:11>Kompong-Som<eor>
+<qso_date:8>20070425<time_on:6>084000<freq:6>18.091<mode:2>CW<call:8>8N3HAM/3<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070425<time_on:6>084100<freq:6>18.076<mode:2>CW<call:5>RV1OO<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:3>TIM<eor>
+<qso_date:8>20070425<time_on:6>085000<freq:6>18.073<mode:2>CW<call:6>LZ1KSP<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20080605<qslsdate:8>20080615<eor>
+<qso_date:8>20070426<time_on:6>085300<freq:5>7.023<mode:2>CW<call:6>BG6IVX<rst_sent:3>599<rst_rcvd:3>579<my_rig:6>15W GP<name:5>ZHANG<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<qth:9>ZHENGZHOU<eor>
+<qso_date:8>20070426<time_on:6>092300<freq:5>7.023<mode:2>CW<call:6>BG6QEF<rst_sent:3>559<rst_rcvd:3>589<comment:7>CLD 23C<my_rig:6>15W GP<name:3>LIU<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070805<qslsdate:8>20070505<qth:5>WUHAN<eor>
+<qso_date:8>20070426<time_on:6>094900<freq:5>7.023<mode:2>CW<call:5>BD9BA<rst_sent:3>599<rst_rcvd:3>599<my_rig:6>15W GP<name:4>TONY<eor>
+<qso_date:8>20070426<time_on:6>150600<freq:5>7.023<mode:2>CW<call:6>BD5HAM<rst_sent:3>599<rst_rcvd:3>599<my_rig:6>10W GP<eor>
+<qso_date:8>20070426<time_on:6>235000<freq:5>7.023<mode:2>CW<call:6>BD4ITN<rst_sent:3>599<rst_rcvd:3>589<my_rig:6>10W GP<name:4>ZHOU<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070501<qslsdate:8>20070508<qth:6>WEIHAI<eor>
+<qso_date:8>20070427<time_on:6>000900<freq:5>7.023<mode:2>CW<call:6>BD4IZL<rst_sent:3>579<rst_rcvd:3>579<comment:6>FB 19C<my_rig:6>10W GP<name:2>YU<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070525<qslsdate:8>20070508<qth:5>JINAN<eor>
+<qso_date:8>20070427<time_on:6>002200<freq:5>7.023<mode:2>CW<call:6>BD1WSY<rst_sent:3>569<rst_rcvd:3>589<comment:7>CLD 18C<my_rig:6>10W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070505<eor>
+<qso_date:8>20070427<time_on:6>153200<freq:6>10.109<mode:2>CW<call:6>JE1SPY<rst_sent:3>599<rst_rcvd:3>599<comment:6>FT1000<my_rig:6>10W GP<name:3>AKI<qsl_rcvd:1>Y<qslrdate:8>20080628<qth:5>TOKYO<eor>
+<qso_date:8>20070427<time_on:6>154300<freq:5>3.510<mode:2>CW<call:5>6M0IU<rst_sent:3>529<rst_rcvd:3>589<my_rig:6>10W GP<eor>
+<qso_date:8>20070428<time_on:6>052700<freq:6>10.125<mode:2>CW<call:6>JH6WFV<rst_sent:3>559<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070428<time_on:6>083900<freq:5>7.023<mode:2>CW<call:6>BD4ITN<rst_sent:3>579<rst_rcvd:3>569<comment:10>FB 20C 50W<my_rig:7>100W GP<eor>
+<qso_date:8>20070428<time_on:6>091100<freq:5>7.023<mode:2>CW<call:6>BY2RSY<rst_sent:3>599<rst_rcvd:3>559<comment:6>50W DP<my_rig:7>100W GP<name:3>CUI<qth:8>SHENYANG<eor>
+<qso_date:8>20070428<time_on:6>092700<freq:5>7.023<mode:2>CW<call:6>BD4VBW<rst_sent:3>599<rst_rcvd:3>599<comment:11>CLD 26C 40W<my_rig:7>100W GP<name:4>YANG<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070508<qslsdate:8>20070601<qth:6>XUZHOU<eor>
+<qso_date:8>20070428<time_on:6>094800<freq:5>7.023<mode:2>CW<call:6>JJ3PVY<rst_sent:3>559<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:4>INAO<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070428<time_on:6>102300<freq:5>7.023<mode:2>CW<call:6>BD5HAM<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070428<time_on:6>132100<freq:5>7.023<mode:2>CW<call:6>BG7KBH<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070601<qslsdate:8>20070505<eor>
+<qso_date:8>20070428<time_on:6>132500<freq:5>7.023<mode:2>CW<call:5>BA6JW<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<name:3>CUI<eor>
+<qso_date:8>20070428<time_on:6>221500<freq:6>14.028<mode:2>CW<call:6>JA1KIH<rst_sent:3>599<rst_rcvd:3>599<comment:6>FB 15C<my_rig:12>100W 1/2VERT<name:4>TAKA<qth:5>CHIBA<eor>
+<qso_date:8>20070429<time_on:6>004000<freq:5>7.023<mode:2>CW<call:6>BD4ITN<rst_sent:3>589<rst_rcvd:3>599<comment:6>FB 25C<my_rig:7>100W GP<eor>
+<qso_date:8>20070429<time_on:6>004500<freq:5>7.023<mode:2>CW<call:10>BG6BIV/QRP<rst_sent:3>599<rst_rcvd:3>529<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>013000<freq:6>18.070<mode:2>CW<call:5>3D2TZ<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070620<qslsdate:8>20070508<eor>
+<qso_date:8>20070429<time_on:6>024500<freq:6>21.235<mode:3>SSB<call:6>3W2TXR<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:5>SHOJI<qsl_rcvd:1>Y<qslrdate:8>20080401<qth:8>HOCHIMIN<eor>
+<qso_date:8>20070429<time_on:6>035800<freq:5>7.056<mode:3>SSB<call:6>BD5CAP<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>064900<freq:6>14.192<mode:3>SSB<call:5>A52AM<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>500W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070505<eor>
+<qso_date:8>20070429<time_on:6>080700<freq:6>28.510<mode:3>SSB<call:6>9W6RHM<rst_sent:2>55<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>100800<freq:6>21.280<mode:3>SSB<call:5>YC0UI<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>115500<freq:6>14.270<mode:3>SSB<call:5>BL7IA<rst_sent:2>59<rst_rcvd:2>59<comment:14>100W 3ELE YAGI<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>120700<freq:6>14.217<mode:3>SSB<call:6>AP2DKH<rst_sent:2>57<rst_rcvd:2>59<comment:4>200W<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070429<time_on:6>145000<freq:6>14.024<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>500W 1/2VERT<eor>
+<qso_date:8>20070430<time_on:6>035500<freq:6>18.145<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070430<time_on:6>053400<freq:6>14.185<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070430<time_on:6>143500<freq:5>7.055<mode:3>SSB<call:8>BG6IQD/4<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070503<time_on:6>151200<freq:6>10.104<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:6>10W GP<eor>
+<qso_date:8>20070503<time_on:6>151800<freq:5>7.004<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070504<time_on:6>000800<freq:6>21.295<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070504<time_on:6>023000<freq:6>18.074<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070504<time_on:6>034700<freq:6>24.894<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070504<time_on:6>041000<freq:6>28.495<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070504<time_on:6>082000<freq:7>145.100<mode:2>FM<call:5>BY5DA<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>5W VERT<eor>
+<qso_date:8>20070504<time_on:6>122800<freq:7>145.100<mode:2>FM<call:8>BG5HKT/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>5W VERT<eor>
+<qso_date:8>20070504<time_on:6>122900<freq:7>145.100<mode:2>FM<call:8>BG5HJC/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>5W VERT<eor>
+<qso_date:8>20070504<time_on:6>134300<freq:5>7.023<mode:2>CW<call:8>BD5HAM/5<rst_sent:3>539<rst_rcvd:3>599<my_rig:7>100W GP<qth:6>上虞<eor>
+<qso_date:8>20070504<time_on:6>142600<freq:7>144.700<mode:2>FM<call:8>BG5ENH/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>25W VERT<qth:15>东阳东白山<eor>
+<qso_date:8>20070504<time_on:6>223600<freq:5>7.055<mode:3>SSB<call:7>BA4VA/4<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<eor>
+<qso_date:8>20070504<time_on:6>224200<freq:5>7.050<mode:3>SSB<call:8>BG3BXH/3<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<qth:9>北戴河<eor>
+<qso_date:8>20070504<time_on:6>224300<freq:5>7.071<mode:3>SSB<call:5>BD4XT<rst_sent:2>59<rst_rcvd:2>59<comment:15>FT746 2ele yagi<my_rig:7>100W GP<qth:9>连云港<eor>
+<qso_date:8>20070504<time_on:6>230000<freq:5>7.053<mode:3>SSB<call:5>BY4LY<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<qth:6>临沂<eor>
+<qso_date:8>20070504<time_on:6>230600<freq:5>7.023<mode:2>CW<call:6>BG5CFB<rst_sent:3>559<rst_rcvd:3>539<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070805<qslsdate:8>20070605<eor>
+<qso_date:8>20070504<time_on:6>230800<freq:5>7.023<mode:2>CW<call:6>BD4ITN<rst_sent:3>579<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070504<time_on:6>233600<freq:5>7.023<mode:2>CW<call:7>BA4VA/4<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070505<time_on:6>021000<freq:6>21.024<mode:2>CW<call:4>BS7H<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070505<time_on:6>022500<freq:6>14.300<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070505<time_on:6>023300<freq:6>24.945<mode:3>SSB<call:4>BS7H<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070505<time_on:6>024400<freq:7>145.100<mode:2>FM<call:6>BD5EPA<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>25W VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070830<qslsdate:8>20070605<eor>
+<qso_date:8>20070505<time_on:6>024600<freq:7>145.120<mode:2>FM<call:5>BA5AC<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>25W VERT<eor>
+<qso_date:8>20070505<time_on:6>025000<freq:6>14.260<mode:3>SSB<call:8>BG5BLA/5<rst_sent:2>59<rst_rcvd:2>59<comment:5>AS141<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070605<eor>
+<qso_date:8>20070505<time_on:6>030000<freq:7>145.100<mode:2>FM<call:6>BG5HNO<rst_sent:2>59<rst_rcvd:2>59<my_rig:8>25W VERT<eor>
+<qso_date:8>20070506<time_on:6>093000<freq:6>14.024<mode:2>CW<call:6>BD5HAM<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070506<time_on:6>093800<freq:6>18.073<mode:2>CW<call:6>HL1IWD<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:3>LEE<qsl_rcvd:1>Y<qslrdate:8>20080401<qth:5>SEOUL<eor>
+<qso_date:8>20070506<time_on:6>094400<freq:6>50.110<mode:3>SSB<call:6>VR2XMQ<rst_sent:2>57<rst_rcvd:2>57<my_rig:12>100W 1/2VERT<name:5>steve<eor>
+<qso_date:8>20070506<time_on:6>094500<freq:6>50.110<mode:3>SSB<call:6>VR2XMT<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070601<qslsdate:8>20070605<eor>
+<qso_date:8>20070506<time_on:6>094600<freq:6>50.110<mode:3>SSB<call:7>BD4TH/3<rst_sent:2>58<rst_rcvd:2>55<comment:7>50W inv<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070819<qslsdate:8>20070605<qth:18>内蒙古准格尔<eor>
+<qso_date:8>20070506<time_on:6>095100<freq:6>29.600<mode:2>FM<call:6>VR2UNF<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070506<time_on:6>111300<freq:6>50.110<mode:3>SSB<call:5>BD9BA<rst_sent:2>57<rst_rcvd:2>57<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070506<time_on:6>124800<freq:5>7.023<mode:2>CW<call:6>BG2ACA<rst_sent:3>569<rst_rcvd:3>559<my_rig:7>100W GP<name:2>MA<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<eor>
+<qso_date:8>20070506<time_on:6>125400<freq:5>7.023<mode:2>CW<call:6>BG8AIB<rst_sent:3>599<rst_rcvd:3>579<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070602<qslsdate:8>20070508<qth:7>CHENGDU<eor>
+<qso_date:8>20070506<time_on:6>125700<freq:5>7.023<mode:2>CW<call:5>RU9UC<rst_sent:3>579<rst_rcvd:3>579<my_rig:7>100W GP<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070506<time_on:6>130000<freq:5>7.023<mode:2>CW<call:6>BG4LQA<rst_sent:3>559<rst_rcvd:3>599<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<eor>
+<qso_date:8>20070506<time_on:6>130400<freq:5>7.023<mode:2>CW<call:5>K6KII<rst_sent:3>579<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<name:5>CLIFF<eor>
+<qso_date:8>20070506<time_on:6>130800<freq:5>7.023<mode:2>CW<call:6>JN2GIG<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070506<time_on:6>131000<freq:5>7.023<mode:2>CW<call:4>N6FX<rst_sent:3>589<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070506<time_on:6>131500<freq:5>7.023<mode:2>CW<call:5>BA7NQ<rst_sent:3>579<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070506<time_on:6>140200<freq:5>7.023<mode:2>CW<call:4>N6AW<rst_sent:3>579<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:3>JAN<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070620<qslsdate:8>20070605<qth:2>CA<eor>
+<qso_date:8>20070507<time_on:6>005600<freq:6>14.275<mode:3>SSB<call:5>BY1TT<rst_sent:2>59<rst_rcvd:2>55<comment:17>25W 2ELE YAGI 7MH<my_rig:12>100W 1/2VERT<qth:15>北京阳台山<eor>
+<qso_date:8>20070507<time_on:6>010300<freq:6>29.600<mode:2>FM<call:6>BG7YDQ<rst_sent:2>59<rst_rcvd:2>59<comment:10>30W CP6 GP<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<qth:6>海口<eor>
+<qso_date:8>20070507<time_on:6>012900<freq:6>29.600<mode:2>FM<call:6>BG7IEU<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_sent:1>Y<qslrdate:7>0707250<qslsdate:8>20070605<qth:6>中山<eor>
+<qso_date:8>20070507<time_on:6>015100<freq:6>29.580<mode:2>FM<call:5>BG9BM<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070524<qslsdate:8>20070508<eor>
+<qso_date:8>20070507<time_on:6>015300<freq:6>29.580<mode:2>FM<call:6>BG7IMY<rst_sent:2>55<rst_rcvd:2>55<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<qth:6>深圳<eor>
+<qso_date:8>20070507<time_on:6>015400<freq:6>29.580<mode:2>FM<call:5>BA5DX<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070507<time_on:6>015600<freq:6>28.495<mode:3>SSB<call:6>BG7MSN<rst_sent:2>59<rst_rcvd:2>59<comment:15>IC746 100W V730<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070601<qslsdate:8>20070605<qth:6>深圳<eor>
+<qso_date:8>20070507<time_on:6>021600<freq:6>29.620<mode:2>FM<call:6>BG7MZR<rst_sent:2>59<rst_rcvd:2>55<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070507<time_on:6>093000<freq:6>29.580<mode:2>FM<call:6>BG4JWU<rst_sent:2>59<rst_rcvd:2>59<comment:14>FB 27C 25W INV<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070518<qslsdate:8>20070508<eor>
+<qso_date:8>20070507<time_on:6>093200<freq:6>29.580<mode:2>FM<call:5>BD9BA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070507<time_on:6>093300<freq:6>50.110<mode:3>SSB<call:5>BD9BA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070507<time_on:6>093500<freq:6>50.110<mode:3>SSB<call:6>BG3NHK<rst_sent:2>55<rst_rcvd:2>55<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070524<qslsdate:8>20070508<qth:12>河北保定<eor>
+<qso_date:8>20070507<time_on:6>094200<freq:6>50.115<mode:3>SSB<call:6>JG3WEU<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070507<time_on:6>094700<freq:6>50.115<mode:3>SSB<call:6>JR2HCB<rst_sent:2>57<rst_rcvd:2>57<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070507<time_on:6>095300<freq:6>29.560<mode:2>FM<call:5>BD3AX<rst_sent:2>58<rst_rcvd:2>59<comment:5>BD3AX<my_rig:12>100W 1/2VERT<qth:6>天津<eor>
+<qso_date:8>20070507<time_on:6>095600<freq:5>7.023<mode:2>CW<call:6>BD1JMJ<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070831<qslsdate:8>20070605<eor>
+<qso_date:8>20070507<time_on:6>142700<freq:5>7.023<mode:2>CW<call:5>BD9BA<rst_sent:3>599<rst_rcvd:3>599<comment:4>100W<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070508<time_on:6>002400<freq:6>14.180<mode:3>SSB<call:7>BS7H/MM<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070508<time_on:6>092800<freq:6>50.110<mode:3>SSB<call:6>BD5HAM<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070514<time_on:6>020200<freq:5>7.023<mode:2>CW<call:6>BG4IZL<rst_sent:3>519<rst_rcvd:3>599<my_rig:5>5W GP<eor>
+<qso_date:8>20070515<time_on:6>093600<freq:6>14.270<mode:3>SSB<call:6>VR2VEN<rst_sent:2>58<rst_rcvd:2>59<comment:4>100W<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20070515<time_on:6>095000<freq:6>29.600<mode:2>FM<call:5>BU2AQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>100W<my_rig:10>5W 1/2VERT<eor>
+<qso_date:8>20070520<time_on:6>022300<freq:5>7.056<mode:3>SSB<call:8>BG1LKK/4<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070531<qslsdate:8>20070605<eor>
+<qso_date:8>20070520<time_on:6>025000<freq:5>7.056<mode:3>SSB<call:6>BG5HPC<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070601<qslsdate:8>20070605<eor>
+<qso_date:8>20070522<time_on:6>162800<freq:6>14.011<mode:2>CW<call:5>UT7VA<rst_sent:3>579<rst_rcvd:3>589<my_rig:12>100W 1/2VERT<name:4>STAS<qth:7>ALEXADA<eor>
+<qso_date:8>20070522<time_on:6>163500<freq:6>14.003<mode:2>CW<call:7>9A950JB<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070805<qslsdate:8>20070605<eor>
+<qso_date:8>20070522<time_on:6>164100<freq:6>14.017<mode:2>CW<call:4>Z36A<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070522<time_on:6>164800<freq:6>14.018<mode:2>CW<call:4>4L8A<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>VLAD<eor>
+<qso_date:8>20070522<time_on:6>165800<freq:6>14.013<mode:2>CW<call:5>RW1AM<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070522<time_on:6>170000<freq:6>14.013<mode:2>CW<call:5>I3XMQ<rst_sent:3>579<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070522<time_on:6>170200<freq:6>14.013<mode:2>CW<call:6>IA3IPY<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070522<time_on:6>170500<freq:6>14.013<mode:2>CW<call:5>UU5AF<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070522<time_on:6>171800<freq:6>14.007<mode:2>CW<call:5>YT7CT<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<qth:4>VRSA<eor>
+<qso_date:8>20070522<time_on:6>172300<freq:6>14.009<mode:2>CW<call:5>RK3BL<rst_sent:3>539<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070526<time_on:6>233700<freq:6>14.019<mode:2>CW<call:3>B5A<rst_sent:3>599<rst_rcvd:3>599<comment:3>530<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070526<time_on:6>234000<freq:6>14.008<mode:2>CW<call:3>B7P<rst_sent:3>599<rst_rcvd:3>599<comment:3>876<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070526<time_on:6>234200<freq:6>14.030<mode:2>CW<call:4>B4EG<rst_sent:3>599<rst_rcvd:3>599<comment:2>95<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>054400<freq:6>21.018<mode:2>CW<call:5>HS0AC<rst_sent:3>599<rst_rcvd:3>599<comment:3>505<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>054700<freq:6>21.002<mode:2>CW<call:6>BD1DRJ<rst_sent:3>599<rst_rcvd:3>599<comment:3>414<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>072000<freq:6>21.027<mode:2>CW<call:5>KG6DX<rst_sent:3>599<rst_rcvd:3>599<comment:3>872<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>074300<freq:6>14.010<mode:2>CW<call:5>VR2BG<rst_sent:3>599<rst_rcvd:3>599<comment:3>566<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>080900<freq:5>7.023<mode:2>CW<call:6>BG4LQA<rst_sent:3>599<rst_rcvd:3>599<comment:6>FB 30C<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>081400<freq:5>7.019<mode:2>CW<call:5>RU0LL<rst_sent:3>599<rst_rcvd:3>599<comment:3>984<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>083500<freq:6>14.043<mode:2>CW<call:8>KH2/WX8C<rst_sent:3>599<rst_rcvd:3>599<comment:7>009-760<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>084500<freq:6>14.026<mode:2>CW<call:5>T88NN<rst_sent:3>599<rst_rcvd:3>599<comment:8>010-1185<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>084800<freq:6>14.022<mode:2>CW<call:4>VR2C<rst_sent:3>599<rst_rcvd:3>599<comment:7>011-819<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070527<time_on:6>085300<freq:6>50.140<mode:3>SSB<call:5>BD7OH<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070725<qslsdate:8>20070605<eor>
+<qso_date:8>20070527<time_on:6>085700<freq:6>50.115<mode:3>SSB<call:6>VR2XMT<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>094700<freq:6>28.490<mode:3>SSB<call:5>VR2LH<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:4>Carl<qsl_rcvd:1>Y<qslrdate:8>20080627<eor>
+<qso_date:8>20070527<time_on:6>095800<freq:6>50.109<mode:2>CW<call:6>BD7JLR<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>100600<freq:6>21.014<mode:2>CW<call:6>BY4VAM<rst_sent:3>599<rst_rcvd:3>599<comment:7>012-650<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>102200<freq:6>29.580<mode:2>FM<call:5>BU2AQ<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>102800<freq:6>28.486<mode:3>SSB<call:5>A52AM<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070605<eor>
+<qso_date:8>20070527<time_on:6>103000<freq:6>28.495<mode:3>SSB<call:6>XU7TZG<rst_sent:2>58<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>103400<freq:6>50.115<mode:3>SSB<call:6>BD7JLR<rst_sent:2>59<rst_rcvd:2>55<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070527<time_on:6>103600<freq:6>50.115<mode:3>SSB<call:6>BG7JPT<rst_sent:2>57<rst_rcvd:2>59<comment:11>JRC245 V730<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070601<qslsdate:8>20070605<eor>
+<qso_date:8>20070527<time_on:6>104600<freq:6>50.110<mode:3>SSB<call:6>BG7KXH<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070528<time_on:6>230700<freq:6>14.004<mode:2>CW<call:5>LZ1MS<rst_sent:3>569<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<name:3>RUN<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070529<time_on:6>000300<freq:6>14.010<mode:2>CW<call:5>BA8AG<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070529<time_on:6>065200<freq:6>10.130<mode:2>CW<call:8>JA1KJW/6<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<name:4>SASI<qsl_rcvd:1>Y<qslrdate:8>20080628<qth:6>HIGAKI<eor>
+<qso_date:8>20070529<time_on:6>095300<freq:6>18.097<mode:2>CW<call:8>JA1KJW/6<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070529<time_on:6>095600<freq:6>21.220<mode:3>SSB<call:6>E20WXA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070529<time_on:6>124700<freq:6>14.013<mode:2>CW<call:5>9V1WW<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<name:3>JIM<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070710<qslsdate:8>20070608<eor>
+<qso_date:8>20070529<time_on:6>125600<freq:6>14.025<mode:2>CW<call:5>RX9FB<rst_sent:3>589<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070529<time_on:6>144000<freq:6>14.011<mode:2>CW<call:6>VQ97JC<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070529<time_on:6>152300<freq:5>7.023<mode:2>CW<call:6>BD5HAM<rst_sent:3>559<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070530<time_on:6>001300<freq:6>50.110<mode:2>CW<call:5>JR6BU<rst_sent:3>559<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070530<time_on:6>010500<freq:6>50.110<mode:2>CW<call:5>VR2BG<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070530<time_on:6>022700<freq:6>50.110<mode:2>CW<call:5>VR2BG<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070530<time_on:6>114300<freq:6>14.020<mode:2>CW<call:5>UN7CH<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:4>YURI<eor>
+<qso_date:8>20070531<time_on:6>080900<freq:6>21.280<mode:3>SSB<call:6>4W6AAV<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070830<qslsdate:8>20070605<eor>
+<qso_date:8>20070531<time_on:6>134500<freq:6>14.020<mode:2>CW<call:6>YB1GJS<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:3>JEL<qth:10>NR JAKARTA<eor>
+<qso_date:8>20070531<time_on:6>135200<freq:6>14.020<mode:2>CW<call:5>OK1WF<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070830<qslsdate:8>20070605<eor>
+<qso_date:8>20070531<time_on:6>135200<freq:6>14.020<mode:2>CW<call:5>RN3DT<rst_sent:3>599<rst_rcvd:3>589<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070531<time_on:6>135300<freq:6>14.020<mode:2>CW<call:4>W1YY<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080501<eor>
+<qso_date:8>20070531<time_on:6>135500<freq:6>14.020<mode:2>CW<call:5>RA3QN<rst_sent:3>579<rst_rcvd:3>569<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070531<time_on:6>135700<freq:6>14.020<mode:2>CW<call:6>JH1QDF<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070531<time_on:6>135900<freq:6>14.020<mode:2>CW<call:6>OK1AXB<rst_sent:3>579<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070531<time_on:6>140000<freq:6>14.020<mode:2>CW<call:6>RV6AMS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>VLAD<eor>
+<qso_date:8>20070531<time_on:6>140100<freq:6>14.020<mode:2>CW<call:5>UR5MA<rst_sent:3>559<rst_rcvd:3>569<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070531<time_on:6>140200<freq:6>14.020<mode:2>CW<call:5>UT5UX<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070531<time_on:6>140300<freq:6>14.020<mode:2>CW<call:5>UY5QJ<rst_sent:3>579<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070531<time_on:6>140600<freq:6>14.020<mode:2>CW<call:5>ZS5LB<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070531<time_on:6>141200<freq:6>18.070<mode:2>CW<call:10>9M2/JH3GCN<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080808<eor>
+<qso_date:8>20070531<time_on:6>153800<freq:6>14.014<mode:2>CW<call:5>9A2DS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070601<time_on:6>163500<freq:6>14.008<mode:2>CW<call:4>G6PZ<rst_sent:3>579<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070601<time_on:6>163800<freq:6>14.009<mode:2>CW<call:5>DK3GI<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:6>ROLAND<eor>
+<qso_date:8>20070601<time_on:6>164200<freq:6>14.011<mode:2>CW<call:5>RU4WD<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<name:4>MIKE<eor>
+<qso_date:8>20070601<time_on:6>165100<freq:6>14.018<mode:2>CW<call:6>BG7JSQ<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:3>LIU<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070710<qslsdate:8>20070702<eor>
+<qso_date:8>20070601<time_on:6>165600<freq:6>14.028<mode:2>CW<call:5>UT5XS<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070601<time_on:6>165900<freq:6>14.029<mode:2>CW<call:7>DR80AMA<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070601<time_on:6>232800<freq:6>14.050<mode:2>CW<call:5>JR6AP<rst_sent:3>579<rst_rcvd:3>559<comment:10>IC736 100W<my_rig:12>100W 1/2VERT<name:5>TOSHI<qth:7>NAWAOKI<eor>
+<qso_date:8>20070601<time_on:6>234500<freq:5>7.053<mode:3>SSB<call:5>BD5IR<rst_sent:2>58<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>032800<freq:7>144.140<mode:3>SSB<call:6>BG4QAX<rst_sent:2>51<rst_rcvd:2>51<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070830<qslsdate:8>20070705<eor>
+<qso_date:8>20070602<time_on:6>033100<freq:7>144.140<mode:3>SSB<call:5>BA4TB<rst_sent:2>53<rst_rcvd:2>51<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20070710<qslsdate:8>20070702<eor>
+<qso_date:8>20070602<time_on:6>033200<freq:7>144.140<mode:3>SSB<call:5>BA5AC<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>033500<freq:7>144.140<mode:3>SSB<call:8>BG1LKK/4<rst_sent:2>53<rst_rcvd:2>51<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070705<eor>
+<qso_date:8>20070602<time_on:6>033900<freq:6>50.110<mode:2>CW<call:6>BD5HAM<rst_sent:3>599<rst_rcvd:3>599<comment:4>100W<my_rig:10>1W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>225600<freq:6>14.009<mode:2>CW<call:6>VR2ZBB<rst_sent:3>579<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:3>LEE<qth:8>HONGKONG<eor>
+<qso_date:8>20070602<time_on:6>230000<freq:6>14.014<mode:2>CW<call:5>DK3FW<rst_sent:3>569<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>230200<freq:6>14.014<mode:2>CW<call:6>BG4LQA<rst_sent:3>559<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>230300<freq:6>14.014<mode:2>CW<call:5>UA0SY<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070602<time_on:6>230500<freq:6>14.014<mode:2>CW<call:6>JO7HAM<rst_sent:3>589<rst_rcvd:3>589<my_rig:12>100W 1/2VERT<name:4>JOHN<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070602<time_on:6>230700<freq:6>14.014<mode:2>CW<call:6>JA7GUT<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070602<time_on:6>231100<freq:6>14.013<mode:2>CW<call:5>BV8YB<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>BILL<qth:7>TAITUNG<eor>
+<qso_date:8>20070602<time_on:6>233000<freq:5>7.050<mode:3>SSB<call:8>BA4ALC/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:7>100W GP<eor>
+<qso_date:8>20070616<time_on:6>000314<freq:6>14.000<mode:2>CW<call:6>BD5HAM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>000350<freq:6>14.000<mode:2>CW<call:6>JA6BDB<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>000443<freq:6>14.000<mode:2>CW<call:8>JA6FOF/6<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>000535<freq:6>14.000<mode:2>CW<call:6>JA1MSS<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>000643<freq:6>14.000<mode:2>CW<call:6>JF0POA<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>000721<freq:6>14.000<mode:2>CW<call:6>7K1PTT<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070616<time_on:6>000907<freq:6>14.000<mode:2>CW<call:6>JH3CUL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>000943<freq:6>14.000<mode:2>CW<call:5>RD4WA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001009<freq:6>14.000<mode:2>CW<call:5>VR2BG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001114<freq:6>14.000<mode:2>CW<call:5>YB3MM<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080115<eor>
+<qso_date:8>20070616<time_on:6>001322<freq:6>14.000<mode:2>CW<call:6>JR4DAH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001356<freq:6>14.000<mode:2>CW<call:6>JJ1KXB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001416<freq:6>14.000<mode:2>CW<call:6>JA1BNT<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>001514<freq:6>14.000<mode:2>CW<call:6>JA1FCY<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>001559<freq:6>14.000<mode:2>CW<call:6>JE1LFX<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>001644<freq:6>14.000<mode:2>CW<call:5>BA5AT<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001826<freq:6>14.000<mode:2>CW<call:6>JH6QIL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>001927<freq:6>14.000<mode:2>CW<call:5>RZ6FA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>002110<freq:6>14.000<mode:2>CW<call:6>JA0UMV<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>002219<freq:6>14.000<mode:2>CW<call:6>7L1AIH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>002335<freq:6>14.000<mode:2>CW<call:6>JH7CJM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>002548<freq:6>14.000<mode:2>CW<call:6>JR9SCH<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>002739<freq:6>14.000<mode:2>CW<call:5>RK3FU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>002846<freq:6>14.000<mode:2>CW<call:6>JN1SPR<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>003002<freq:6>14.000<mode:2>CW<call:6>JA1ATB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003112<freq:6>14.000<mode:2>CW<call:6>JA4AQR<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003153<freq:6>14.000<mode:2>CW<call:6>JR4FLW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003501<freq:6>14.000<mode:2>CW<call:6>JA7COI<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003708<freq:6>14.000<mode:2>CW<call:5>BU2AQ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003818<freq:6>14.000<mode:2>CW<call:6>JA1AYO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>003844<freq:6>14.000<mode:2>CW<call:6>JA1MCU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>004012<freq:6>14.000<mode:2>CW<call:8>JH1GUO/4<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>004139<freq:6>14.000<mode:2>CW<call:6>JL1LNC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>004222<freq:6>14.000<mode:2>CW<call:6>JR1FVI<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>004308<freq:6>14.000<mode:2>CW<call:5>F6HBR<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>004353<freq:6>14.000<mode:2>CW<call:6>JO3FUO<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>004658<freq:6>14.000<mode:2>CW<call:6>HS0ZDY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>004757<freq:6>14.000<mode:2>CW<call:6>JH2NWP<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>004836<freq:6>14.000<mode:2>CW<call:6>JA3AVO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>004941<freq:6>14.000<mode:2>CW<call:6>JA3PYC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>005051<freq:6>14.000<mode:2>CW<call:5>JA7EU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>005122<freq:6>14.000<mode:2>CW<call:5>JA3AA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>005216<freq:6>14.000<mode:2>CW<call:6>JA3KZD<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>005254<freq:6>14.000<mode:2>CW<call:6>JF3CCN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>005509<freq:6>14.000<mode:2>CW<call:6>JG3LGD<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>005624<freq:6>14.000<mode:2>CW<call:6>JL4HOZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>010300<freq:6>14.000<mode:2>CW<call:6>BA4ALC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>010523<freq:6>14.000<mode:2>CW<call:5>HS0AC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>011002<freq:6>14.000<mode:2>CW<call:6>JA1YPA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>011207<freq:6>14.000<mode:2>CW<call:6>HL2AEJ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>011349<freq:6>14.000<mode:2>CW<call:6>JA5APU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>011538<freq:6>14.000<mode:2>CW<call:6>6K2DIO<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070616<time_on:6>011715<freq:6>14.000<mode:2>CW<call:4>JT1T<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>013644<freq:6>14.000<mode:2>CW<call:6>DS5AHI<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>013820<freq:6>14.000<mode:2>CW<call:6>JA3UWB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>013852<freq:6>14.000<mode:2>CW<call:4>RG3K<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>013921<freq:6>14.000<mode:2>CW<call:5>RW0UM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>020240<freq:6>14.000<mode:2>CW<call:5>9V1YC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>020527<freq:6>14.000<mode:2>CW<call:6>RK3FWA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>021108<freq:6>14.000<mode:2>CW<call:5>RZ6FA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>021233<freq:6>14.000<mode:2>CW<call:6>JJ6CZZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>021625<freq:6>14.000<mode:2>CW<call:4>3W9R<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070705<eor>
+<qso_date:8>20070616<time_on:6>021828<freq:6>14.000<mode:2>CW<call:4>RT3T<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>022325<freq:6>14.000<mode:2>CW<call:6>RW9USA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>022353<freq:6>14.000<mode:2>CW<call:5>JA4TY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>023030<freq:6>14.000<mode:2>CW<call:4>UU7J<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>023249<freq:6>14.000<mode:2>CW<call:5>YB6LD<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>023454<freq:6>14.000<mode:2>CW<call:6>BD7JLR<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>024552<freq:6>14.000<mode:2>CW<call:5>UY0ZG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>025048<freq:6>14.000<mode:2>CW<call:5>ES4RD<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>025322<freq:6>14.000<mode:2>CW<call:6>JF2RDG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>025431<freq:6>14.000<mode:2>CW<call:6>JG2KKG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>025635<freq:6>14.000<mode:2>CW<call:6>JA3YBK<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>025948<freq:6>14.000<mode:2>CW<call:6>JA1JKG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>030313<freq:6>14.000<mode:2>CW<call:6>DL6FBL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>030539<freq:6>14.000<mode:2>CW<call:5>LZ3FN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>052225<freq:6>14.000<mode:2>CW<call:5>BA5DX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>075103<freq:6>14.000<mode:2>CW<call:6>JR1XUM<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070616<time_on:6>075311<freq:6>14.000<mode:2>CW<call:6>JA1XRH<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>075415<freq:6>14.000<mode:2>CW<call:5>JA1PS<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>075520<freq:6>14.000<mode:2>CW<call:6>JA2AJC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>075708<freq:6>14.000<mode:2>CW<call:6>JL1UTS<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>075756<freq:6>14.000<mode:2>CW<call:6>JA3YKC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>080359<freq:6>14.000<mode:2>CW<call:6>HL2FDW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>080636<freq:6>14.000<mode:2>CW<call:6>JE0EHE<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>080811<freq:6>14.000<mode:2>CW<call:5>JA3JM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>080927<freq:6>14.000<mode:2>CW<call:6>7L1JHN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>080954<freq:6>14.000<mode:2>CW<call:6>JA1IRH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>081031<freq:6>14.000<mode:2>CW<call:6>JE1SCJ<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>081128<freq:6>14.000<mode:2>CW<call:6>JA6ACZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>081216<freq:6>14.000<mode:2>CW<call:6>JR6PQD<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>081323<freq:6>14.000<mode:2>CW<call:6>JH1EGJ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>081512<freq:6>14.000<mode:2>CW<call:8>JH5BJU/3<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>082210<freq:6>14.000<mode:2>CW<call:6>DS4DBG<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070616<time_on:6>082323<freq:6>14.000<mode:2>CW<call:6>JE2VLG<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>082342<freq:6>14.000<mode:2>CW<call:6>JR1NHD<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>082411<freq:6>14.000<mode:2>CW<call:6>JE6TSP<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>082605<freq:6>14.000<mode:2>CW<call:5>RA0AM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>082656<freq:6>14.000<mode:2>CW<call:6>JA1JYE<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>082917<freq:6>14.000<mode:2>CW<call:6>HL4CEL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083018<freq:6>14.000<mode:2>CW<call:6>YB5AQB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083158<freq:6>14.000<mode:2>CW<call:6>JA2AIH<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>083242<freq:6>14.000<mode:2>CW<call:6>JA1EMQ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083344<freq:6>14.000<mode:2>CW<call:6>JA5AUG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083453<freq:6>14.000<mode:2>CW<call:6>JJ5ECZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083527<freq:6>14.000<mode:2>CW<call:6>JM1VBW<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>083621<freq:6>14.000<mode:2>CW<call:6>JR5HXU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>083711<freq:6>14.000<mode:2>CW<call:6>JH2AMN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>084259<freq:6>14.000<mode:2>CW<call:6>JA1ZGP<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>090056<freq:6>14.000<mode:2>CW<call:6>JA1CSB<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>090121<freq:6>14.000<mode:2>CW<call:6>JA1GDF<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>090151<freq:6>14.000<mode:2>CW<call:6>JA2KOG<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>090250<freq:6>14.000<mode:2>CW<call:5>JA2OJ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>090612<freq:6>14.000<mode:2>CW<call:6>JA6OXT<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>090923<freq:6>14.000<mode:2>CW<call:6>JH1IHO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091151<freq:6>14.000<mode:2>CW<call:6>7N2JNN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091222<freq:6>14.000<mode:2>CW<call:6>JA2VZL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091248<freq:6>14.000<mode:2>CW<call:6>JA1PJS<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091340<freq:6>14.000<mode:2>CW<call:6>JA3FYC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091401<freq:6>14.000<mode:2>CW<call:6>JF2TOG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091644<freq:6>14.000<mode:2>CW<call:6>JE9WEO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091711<freq:6>14.000<mode:2>CW<call:6>7K4XNN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091753<freq:6>14.000<mode:2>CW<call:6>JR4FLW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>091843<freq:6>14.000<mode:2>CW<call:6>JA3UCO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092002<freq:6>14.000<mode:2>CW<call:6>JA2LAA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092058<freq:6>14.000<mode:2>CW<call:6>JO2SIF<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>092116<freq:6>14.000<mode:2>CW<call:6>JA1TGC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092142<freq:6>14.000<mode:2>CW<call:6>JR1URH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092206<freq:6>14.000<mode:2>CW<call:5>JA2AH<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>092312<freq:6>14.000<mode:2>CW<call:6>JR3HZW<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>092330<freq:6>14.000<mode:2>CW<call:6>JA9CAC<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>092357<freq:6>14.000<mode:2>CW<call:6>JI3JWV<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092514<freq:6>14.000<mode:2>CW<call:6>JK2VOC<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20090101<qslsdate:8>20070808<eor>
+<qso_date:8>20070616<time_on:6>092542<freq:6>14.000<mode:2>CW<call:6>JF3SAD<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>092603<freq:6>14.000<mode:2>CW<call:6>JA1BAQ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092744<freq:6>14.000<mode:2>CW<call:6>JE3GEL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>092805<freq:6>14.000<mode:2>CW<call:5>JA7ZF<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>093037<freq:6>14.000<mode:2>CW<call:6>JH5GEN<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>093127<freq:6>14.000<mode:2>CW<call:6>JQ1YER<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>093205<freq:6>14.000<mode:2>CW<call:5>UN7TW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>093232<freq:6>14.000<mode:2>CW<call:6>JA2KOW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>093911<freq:6>14.000<mode:2>CW<call:6>JF2HPA<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>094115<freq:6>14.000<mode:2>CW<call:6>JE1UKM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>111214<freq:6>14.000<mode:2>CW<call:8>JG5DHX/5<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20080606<qslsdate:8>20080615<eor>
+<qso_date:8>20070616<time_on:6>112402<freq:6>14.000<mode:2>CW<call:5>RU9YS<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>112639<freq:6>14.000<mode:2>CW<call:5>RV0AE<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>112747<freq:6>14.000<mode:2>CW<call:6>JA3JOT<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>121141<freq:6>14.000<mode:2>CW<call:5>UA4PN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>121324<freq:6>14.000<mode:2>CW<call:6>JS1OYN<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>121558<freq:6>14.000<mode:2>CW<call:4>EX2M<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>121728<freq:6>14.000<mode:2>CW<call:4>JU1F<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>122059<freq:6>14.000<mode:2>CW<call:6>JA1ZGO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>122420<freq:6>14.000<mode:2>CW<call:6>RZ9OZO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>122904<freq:6>14.000<mode:2>CW<call:6>JA1LHH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>123323<freq:6>14.000<mode:2>CW<call:6>UA6LTI<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>123914<freq:6>14.000<mode:2>CW<call:6>HS0ZGV<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>124049<freq:6>14.000<mode:2>CW<call:5>JA0GZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>124201<freq:6>14.000<mode:2>CW<call:6>JM1RSV<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>124356<freq:6>14.000<mode:2>CW<call:6>JF1SXY<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>124508<freq:6>14.000<mode:2>CW<call:6>JE1COB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>124929<freq:6>14.000<mode:2>CW<call:5>UU2JG<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>125047<freq:6>14.000<mode:2>CW<call:6>UR3IQO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>125304<freq:6>14.000<mode:2>CW<call:5>JA6DH<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>125339<freq:6>14.000<mode:2>CW<call:5>VQ9JC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>125408<freq:6>14.000<mode:2>CW<call:5>UR5MW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>130101<freq:6>14.000<mode:2>CW<call:6>JA7LLL<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>130237<freq:6>14.000<mode:2>CW<call:5>UA4IU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>140347<freq:6>14.000<mode:2>CW<call:4>LY6A<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>140814<freq:6>14.000<mode:2>CW<call:6>JM4WUZ<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20091010<eor>
+<qso_date:8>20070616<time_on:6>141548<freq:6>14.000<mode:2>CW<call:6>JA1PTO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>141641<freq:6>14.000<mode:2>CW<call:6>JH4JUK<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>141709<freq:6>14.000<mode:2>CW<call:6>JF3MYU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>141800<freq:6>14.000<mode:2>CW<call:6>JP1EWY<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070616<time_on:6>142523<freq:6>14.000<mode:2>CW<call:4>SJ2A<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>142951<freq:6>14.000<mode:2>CW<call:6>JA1COU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>143631<freq:6>14.000<mode:2>CW<call:6>IK2SND<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>144249<freq:6>14.000<mode:2>CW<call:4>YU2A<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>144604<freq:6>14.000<mode:2>CW<call:4>HG1S<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>144902<freq:6>14.000<mode:2>CW<call:6>DS2GWM<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070616<time_on:6>145327<freq:6>14.000<mode:2>CW<call:6>DL8DAZ<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070616<time_on:6>145838<freq:6>14.000<mode:2>CW<call:4>9A3B<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>150141<freq:6>14.000<mode:2>CW<call:6>US6IMA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>150855<freq:6>14.000<mode:2>CW<call:4>OE3I<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>151155<freq:6>14.000<mode:2>CW<call:4>Z3HT<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>151449<freq:6>14.000<mode:2>CW<call:5>YO4AB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>151901<freq:6>14.000<mode:2>CW<call:5>LZ2SX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>152016<freq:6>14.000<mode:2>CW<call:6>UA9AOL<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>152158<freq:6>14.000<mode:2>CW<call:5>DL4WA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>153506<freq:6>14.000<mode:2>CW<call:6>JA6JNF<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>153635<freq:6>14.000<mode:2>CW<call:6>JL3MCM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>153933<freq:6>14.000<mode:2>CW<call:5>UT5ZA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>154253<freq:6>14.000<mode:2>CW<call:5>UT2UB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>154447<freq:6>14.000<mode:2>CW<call:5>RX3MM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>160547<freq:6>14.000<mode:2>CW<call:6>BD3APX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>160652<freq:6>14.000<mode:2>CW<call:5>UA3RC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>160903<freq:6>14.000<mode:2>CW<call:6>JG1ZUY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>161326<freq:6>14.000<mode:2>CW<call:5>UA4LU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>162008<freq:6>14.000<mode:2>CW<call:5>F6EMA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>163253<freq:6>14.000<mode:2>CW<call:5>HA8VK<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>163421<freq:6>14.000<mode:2>CW<call:5>G4IUF<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>163642<freq:6>14.000<mode:2>CW<call:6>DL1ATM<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080115<eor>
+<qso_date:8>20070616<time_on:6>163931<freq:6>14.000<mode:2>CW<call:6>YO5KIW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>164120<freq:6>14.000<mode:2>CW<call:5>F6IFY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>164855<freq:6>14.000<mode:2>CW<call:5>IQ4AX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>165145<freq:6>14.000<mode:2>CW<call:5>YZ1GW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>165307<freq:6>14.000<mode:2>CW<call:7>RU4CO/0<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>165601<freq:6>14.000<mode:2>CW<call:6>DJ1YFK<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>171250<freq:6>14.000<mode:2>CW<call:6>OH4MDY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>171534<freq:6>14.000<mode:2>CW<call:5>ER3DW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070616<time_on:6>171705<freq:6>14.000<mode:2>CW<call:5>HA3NU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>002556<freq:6>14.000<mode:2>CW<call:6>OA1KVT<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>002745<freq:6>14.000<mode:2>CW<call:6>RW9UOB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>003325<freq:6>14.000<mode:2>CW<call:6>JL1QOC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>003631<freq:6>14.000<mode:2>CW<call:6>JA7DLE<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080808<eor>
+<qso_date:8>20070617<time_on:6>004004<freq:6>14.000<mode:2>CW<call:6>JH0NEC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>004732<freq:6>14.000<mode:2>CW<call:5>KG6DX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>014050<freq:6>14.000<mode:2>CW<call:6>DU3NXE<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>014532<freq:6>14.000<mode:2>CW<call:6>JO1WKO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>014707<freq:6>14.000<mode:2>CW<call:6>JA2KVB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>014857<freq:6>14.000<mode:2>CW<call:6>JO7KMB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>015030<freq:6>14.000<mode:2>CW<call:6>JN2AMD<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070617<time_on:6>015129<freq:6>14.000<mode:2>CW<call:8>JA5CQH/4<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>015152<freq:6>14.000<mode:2>CW<call:6>JA4ITW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>015251<freq:6>14.000<mode:2>CW<call:6>JA3YAA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>015618<freq:6>14.000<mode:2>CW<call:6>JA6BWB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>020210<freq:6>14.000<mode:2>CW<call:6>JA1HNP<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>045443<freq:6>14.000<mode:2>CW<call:4>KH0N<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>045627<freq:6>14.000<mode:2>CW<call:6>UA0FAI<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080808<eor>
+<qso_date:8>20070617<time_on:6>050340<freq:6>14.000<mode:2>CW<call:6>DS5BRE<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070617<time_on:6>050927<freq:6>14.000<mode:2>CW<call:6>JA1HMK<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>053001<freq:6>14.000<mode:2>CW<call:8>JG6KPF/1<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>054938<freq:6>14.000<mode:2>CW<call:6>JH1KZB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>055308<freq:6>14.000<mode:2>CW<call:6>JA6FFK<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>071434<freq:6>14.000<mode:2>CW<call:5>JT1CO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>072119<freq:6>14.000<mode:2>CW<call:6>JH1FNU<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070617<time_on:6>072301<freq:6>14.000<mode:2>CW<call:6>JN1ZUA<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>072410<freq:6>14.000<mode:2>CW<call:6>JA1BAN<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>072655<freq:6>14.000<mode:2>CW<call:6>JI2MWH<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>074045<freq:6>14.000<mode:2>CW<call:6>8N3OSA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>074608<freq:6>14.000<mode:2>CW<call:4>WH0S<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>074948<freq:6>14.000<mode:2>CW<call:5>UA9ZZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>075204<freq:6>14.000<mode:2>CW<call:6>UA9CLB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>075329<freq:6>14.000<mode:2>CW<call:4>K6XX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>080123<freq:6>14.000<mode:2>CW<call:4>WH0C<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>080944<freq:6>14.000<mode:2>CW<call:5>V85SS<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>090933<freq:6>14.000<mode:2>CW<call:6>JA2XYO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>091429<freq:6>14.000<mode:2>CW<call:6>JA2HXV<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>091727<freq:6>14.000<mode:2>CW<call:6>JE1LOI<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>094459<freq:6>14.000<mode:2>CW<call:6>DS5CJE<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>094559<freq:6>14.000<mode:2>CW<call:6>RK3QWW<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>094844<freq:6>14.000<mode:2>CW<call:4>N6KI<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>094926<freq:6>14.000<mode:2>CW<call:6>JE1SLP<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>095548<freq:6>14.000<mode:2>CW<call:5>RN3BD<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070617<time_on:6>095745<freq:6>14.000<mode:2>CW<call:5>DL5FU<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>095907<freq:6>14.000<mode:2>CW<call:6>7K1EQG<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080628<eor>
+<qso_date:8>20070617<time_on:6>125501<freq:6>14.000<mode:2>CW<call:5>DK3GI<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>125723<freq:6>14.000<mode:2>CW<call:5>RW9WA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>125759<freq:6>14.000<mode:2>CW<call:5>R3TWA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>125908<freq:6>14.000<mode:2>CW<call:5>ZS6AA<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>130419<freq:6>14.000<mode:2>CW<call:5>YL3FT<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070617<time_on:6>130518<freq:6>14.000<mode:2>CW<call:5>UA9BX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>130607<freq:6>14.000<mode:2>CW<call:6>SM2LIY<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>130730<freq:6>14.000<mode:2>CW<call:5>RW9SZ<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>130859<freq:6>14.000<mode:2>CW<call:6>JA1KEV<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>131046<freq:6>14.000<mode:2>CW<call:5>UR7EU<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070617<time_on:6>132045<freq:6>14.000<mode:2>CW<call:6>RZ6HWC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>132732<freq:6>14.000<mode:2>CW<call:5>DL4CF<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>133046<freq:6>14.000<mode:2>CW<call:6>UA0QBR<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>134901<freq:6>14.000<mode:2>CW<call:4>OH6M<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20080808<eor>
+<qso_date:8>20070617<time_on:6>135613<freq:6>14.000<mode:2>CW<call:5>OH1RX<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>135903<freq:6>14.000<mode:2>CW<call:6>RK9CZO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>141142<freq:6>14.000<mode:2>CW<call:6>YB0ECT<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>144428<freq:6>14.000<mode:2>CW<call:5>UA6GO<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>151019<freq:6>14.000<mode:2>CW<call:4>W7OM<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>152208<freq:6>14.000<mode:2>CW<call:6>9M2CNC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>153630<freq:6>14.000<mode:2>CW<call:5>UA9BS<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>214456<freq:6>14.000<mode:2>CW<call:4>OP4K<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>215051<freq:6>14.000<mode:2>CW<call:5>OK7XC<rst_sent:3>599<rst_rcvd:3>599<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070617<time_on:6>233923<freq:6>14.000<mode:2>CW<call:5>VK6LC<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070617<time_on:6>234115<freq:6>14.000<mode:2>CW<call:6>JK1XDB<rst_sent:3>599<rst_rcvd:3>599<eor>
+<qso_date:8>20070704<time_on:6>122000<freq:5>3.860<mode:3>SSB<call:8>BA4ALC/5<rst_sent:2>43<rst_rcvd:2>59<my_rig:7>100W GP<eor>
+<qso_date:8>20070704<time_on:6>122500<freq:5>3.860<mode:3>SSB<call:6>BG5BUH<rst_sent:2>59<rst_rcvd:2>55<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>114800<freq:6>14.260<mode:3>SSB<call:5>HS0AC<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:7>Charlie<eor>
+<qso_date:8>20070714<time_on:6>115900<freq:6>14.018<mode:2>CW<call:5>HS0AC<rst_sent:3>599<rst_rcvd:3>599<comment:4>RAST<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>120200<freq:6>14.195<mode:3>SSB<call:5>BA5BO<rst_sent:2>59<rst_rcvd:2>59<comment:2>44<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>120400<freq:6>14.200<mode:3>SSB<call:5>A52AM<rst_sent:2>59<rst_rcvd:2>59<comment:2>41<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qsl_sent:1>Y<qslrdate:8>20071101<qslsdate:8>20070805<eor>
+<qso_date:8>20070714<time_on:6>120500<freq:6>14.260<mode:3>SSB<call:5>HS0AC<rst_sent:2>59<rst_rcvd:2>59<comment:4>RAST<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>121400<freq:5>3.505<mode:2>CW<call:4>B3HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>CRSA<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>121800<freq:5>3.799<mode:3>SSB<call:5>8N2HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>JARL<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>123700<freq:5>3.795<mode:3>SSB<call:4>B4HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>CRSA<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>125400<freq:5>3.510<mode:2>CW<call:5>8N4HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>JARL<my_rig:7>100W GP<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070714<time_on:6>125600<freq:5>3.511<mode:2>CW<call:6>HL2FDW<rst_sent:3>599<rst_rcvd:3>599<comment:2>44<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>125900<freq:5>7.004<mode:2>CW<call:4>N6RO<rst_sent:3>599<rst_rcvd:3>599<comment:2>06<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>130100<freq:5>7.010<mode:2>CW<call:5>BD5WW<rst_sent:3>599<rst_rcvd:3>599<comment:2>44<my_rig:7>100W GP<eor>
+<qso_date:8>20070714<time_on:6>130500<freq:5>7.016<mode:2>CW<call:4>W6YI<rst_sent:3>599<rst_rcvd:3>599<comment:2>06<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>131500<freq:6>14.026<mode:2>CW<call:4>B1HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>131600<freq:6>14.218<mode:3>SSB<call:4>B7HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>132700<freq:5>7.087<mode:3>SSB<call:4>B1HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>132900<freq:5>7.015<mode:2>CW<call:5>BV0HQ<rst_sent:3>599<rst_rcvd:3>599<comment:5>CTARL<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>134100<freq:5>7.011<mode:2>CW<call:5>8N3HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>JARL<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>134200<freq:5>7.008<mode:2>CW<call:4>B4HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>140400<freq:5>1.823<mode:2>CW<call:4>B1HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>142000<freq:6>14.211<mode:3>SSB<call:5>IU4HQ<rst_sent:2>59<rst_rcvd:2>59<comment:3>ARI<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>142300<freq:6>14.244<mode:3>SSB<call:5>UT7QF<rst_sent:2>59<rst_rcvd:2>59<comment:2>29<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>142500<freq:6>14.250<mode:3>SSB<call:5>OM7HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>SARA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>142700<freq:6>14.277<mode:3>SSB<call:5>DA0HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>DARC<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080808<eor>
+<qso_date:8>20070714<time_on:6>142900<freq:6>21.212<mode:3>SSB<call:4>R9HQ<rst_sent:2>59<rst_rcvd:2>59<comment:3>SRR<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>143100<freq:6>21.277<mode:3>SSB<call:4>B7HQ<rst_sent:2>59<rst_rcvd:2>59<comment:4>CRSA<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>143500<freq:6>21.020<mode:2>CW<call:4>R9HQ<rst_sent:3>599<rst_rcvd:3>599<comment:3>SRR<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070714<time_on:6>221000<freq:6>28.016<mode:2>CW<call:5>8N4HQ<rst_sent:3>599<rst_rcvd:3>599<comment:4>JARL<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070717<time_on:6>225000<freq:6>14.015<mode:2>CW<call:6>JH2QAY<rst_sent:3>569<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070717<time_on:6>225600<freq:6>14.015<mode:2>CW<call:6>UA0WAB<rst_sent:3>579<rst_rcvd:3>569<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070717<time_on:6>225900<freq:6>14.015<mode:2>CW<call:8>BD4IZL/6<rst_sent:3>599<rst_rcvd:3>599<comment:7>CLD 29C<my_rig:12>100W 1/2VERT<qth:7>LUOYANG<eor>
+<qso_date:8>20070717<time_on:6>230800<freq:5>7.023<mode:2>CW<call:8>BD4IZL/6<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<eor>
+<qso_date:8>20070718<time_on:6>140800<freq:5>3.515<mode:2>CW<call:5>BX2AF<rst_sent:3>599<rst_rcvd:3>599<my_rig:7>100W GP<name:4>LIOU<qth:6>TAIPEI<eor>
+<qso_date:8>20070809<time_on:6>011600<freq:5>7.023<mode:2>CW<call:6>BD4ITN<rst_sent:3>419<rst_rcvd:3>559<my_rig:6>10W GP<eor>
+<qso_date:8>20070809<time_on:6>011600<freq:5>7.026<mode:2>CW<call:6>JF4AYZ<rst_sent:3>529<rst_rcvd:3>549<my_rig:6>10W GP<eor>
+<qso_date:8>20070809<time_on:6>011700<freq:6>14.010<mode:2>CW<call:6>HS0ZFQ<rst_sent:3>559<rst_rcvd:3>569<comment:13>IC706 100W DP<my_rig:11>10W 1/2VERT<name:7>RICHARD<qth:9>chiangrai<eor>
+<qso_date:8>20070819<time_on:6>073600<freq:6>21.400<mode:3>SSB<call:6>BG7IBA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qth:6>广州<eor>
+<qso_date:8>20070824<time_on:6>054200<freq:6>14.270<mode:3>SSB<call:8>BA4ALC/5<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070824<time_on:6>054800<freq:6>18.076<mode:2>CW<call:7>BA4EG/5<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070831<time_on:6>070600<freq:6>29.600<mode:2>FM<call:6>BG7NWF<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070831<time_on:6>070600<freq:6>29.600<mode:2>FM<call:6>BH7IJQ<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070831<time_on:6>071700<freq:6>14.020<mode:2>CW<call:5>RZ0SG<rst_sent:3>569<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:4>YURI<qth:10>NR IRKUTSK<eor>
+<qso_date:8>20070831<time_on:6>072400<freq:6>18.077<mode:2>CW<call:6>JA7COK<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<name:4>KOSE<qth:5>ANUNA<eor>
+<qso_date:8>20070831<time_on:6>082900<freq:5>7.021<mode:2>CW<call:6>JA6FVY<rst_sent:3>599<rst_rcvd:3>589<my_rig:7>100W GP<eor>
+<qso_date:8>20070831<time_on:6>090900<freq:6>18.085<mode:2>CW<call:5>VQ9LA<rst_sent:3>559<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070831<time_on:6>092100<freq:6>21.190<mode:3>SSB<call:6>JR1BFG<rst_sent:2>59<rst_rcvd:2>57<my_rig:12>100W 1/2VERT<name:4>TAKA<qth:5>TOKYO<eor>
+<qso_date:8>20070831<time_on:6>095600<freq:6>21.210<mode:3>SSB<call:6>E20WXA<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<name:4>CHAI<eor>
+<qso_date:8>20070831<time_on:6>145400<freq:6>14.016<mode:2>CW<call:5>EM15B<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070831<time_on:6>145600<freq:6>14.013<mode:2>CW<call:7>US3QQ/P<rst_sent:3>599<rst_rcvd:3>559<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070831<time_on:6>145800<freq:6>14.024<mode:2>CW<call:5>UT8EU<rst_sent:3>589<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:3>SRI<qsl_rcvd:1>Y<qslrdate:8>20080401<eor>
+<qso_date:8>20070831<time_on:6>150300<freq:6>14.255<mode:3>SSB<call:6>LZ1VVV<rst_sent:2>59<rst_rcvd:2>59<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070831<time_on:6>150600<freq:6>14.017<mode:2>CW<call:5>UA6AF<rst_sent:3>599<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070831<time_on:6>151400<freq:5>7.006<mode:2>CW<call:5>RA3EG<rst_sent:3>579<rst_rcvd:3>599<my_rig:12>100W 1/2VERT<name:4>VLAD<qsl_rcvd:1>Y<qslrdate:8>20090101<eor>
+<qso_date:8>20070831<time_on:6>180000<freq:6>14.013<mode:2>CW<call:7>US8IP/P<rst_sent:3>599<rst_rcvd:3>579<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>024400<freq:6>14.180<mode:3>SSB<call:4>VR2C<rst_sent:2>59<rst_rcvd:2>59<comment:2>29<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>024500<freq:6>14.190<mode:3>SSB<call:6>BD7KLO<rst_sent:2>59<rst_rcvd:2>59<comment:2>35<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>024700<freq:6>14.211<mode:3>SSB<call:3>B7M<rst_sent:2>59<rst_rcvd:2>59<comment:2>26<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>024700<freq:6>14.223<mode:3>SSB<call:7>VR10XMT<rst_sent:2>59<rst_rcvd:2>59<comment:2>52<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>025200<freq:6>28.495<mode:3>SSB<call:3>B5A<rst_sent:2>59<rst_rcvd:2>59<comment:2>35<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>030100<freq:6>14.231<mode:3>SSB<call:6>JM4WUZ<rst_sent:2>59<rst_rcvd:2>59<comment:2>58<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>030200<freq:6>14.261<mode:3>SSB<call:6>BG7MVZ<rst_sent:2>59<rst_rcvd:2>59<comment:2>39<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>055900<freq:6>21.260<mode:3>SSB<call:6>E21EIC<rst_sent:2>59<rst_rcvd:2>59<comment:2>30<my_rig:12>100W 1/2VERT<eor>
+<qso_date:8>20070902<time_on:6>060300<freq:6>21.237<mode:3>SSB<call:5>RW4HP<rst_sent:2>59<rst_rcvd:2>59<comment:2>51<my_rig:12>100W 1/2VERT<eor>
